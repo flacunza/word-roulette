@@ -1,4 +1,4 @@
 ## Examples
 
-[Basque -> Spanish](examples/index.html)
+[Euskara -> Castellano](examples/index.html)
 
