@@ -27,7 +27,7 @@ function precache() {
   return caches.open(CACHE).then(function (cache) {
     return cache.addAll([
       './default.html',
-      './eu.json',
+      './lang/eu.json',
 	  './js/word-roulette.js',
 	  './css/wr.css'
     ]);
