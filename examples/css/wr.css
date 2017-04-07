@@ -1,0 +1,98 @@
+@keyframes delayed-popup {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+html,body,.wr-roulette {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.wr-roulette {
+	position: relative;
+}
+.wr-term,.wr-def,.wr-hint {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+	font-family: serif;
+	font-size: 10vmin;
+	height: 50%;
+	width: 100%;
+	cursor: pointer;
+	text-shadow: 0px 0px 1em white;
+}
+.wr-roulette.wr-guessing .wr-def, .wr-roulette.wr-guessing .wr-hint {
+	display: none;
+}
+.wr-hint {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -6vmin;
+	margin-left: -40vmin;
+	width: 80vmin;
+	height: auto;
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+}
+
+.wr-hint-btn {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -6vmin;
+	margin-left: -6vmin;
+	width: 12vmin;
+	font-size: 8vmin;
+	height: 12vmin;
+	border-radius: 50%;
+	border-width: 0;
+	background-color: white;
+	text-indent: -9999vw;
+	cursor: pointer;
+}
+
+.wr-hint-btn:before {
+	position: absolute;
+	content: '\1F4A1';
+	left: 0;
+	top: 0;
+	text-indent: 0;
+	width: 100%;
+}
+
+.wr-roulette .wr-hint-btn {
+	display: none;
+}
+
+.wr-roulette.wr-has-hint.wr-guessing .wr-hint-btn {
+	display: block;
+	animation: delayed-popup 2s;
+}
+
+.wr-roulette.wr-has-hint.wr-hint-shown .wr-hint-btn {
+	display: none;
+}
+
+.wr-roulette.wr-guessing .wr-hint {
+	display: none;
+}
+
+.wr-roulette.wr-guessing.wr-hint-shown .wr-hint {
+	display: block;
+	animation: delayed-popup 0.3s;
+}
+
+.wr-roulette input {
+	width: 100%;
+}

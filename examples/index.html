@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Hitz erruleta</title>
+    <link rel="stylesheet" href="css/wr.css">
+</head>
+<body>
+    <article id="roulette"></article>
+	<script type="text/javascript" src="js/word-roulette.js"></script>
+    <script type="text/javascript">
+		navigator.serviceWorker.register('service-worker.js', {
+			scope: './'
+		});
+		
+		var erruleta = new WordRoulette({
+			target: "roulette",
+			dataSource: "lang/eu.json"
+		});
+        window.onload = function () {
+            erruleta.init();
+        };
+    </script>
+</body>
+</html>

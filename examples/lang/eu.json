@@ -1,0 +1,2405 @@
+﻿[{
+		"letter": "A",
+		"entries": [{
+				"term": "ABENDU",
+				"def": "diciembre"
+			}, {
+				"term": "ABERATS",
+				"def": "rico, adinerado"
+			}, {
+				"term": "ABUZTU",
+				"def": "agosto"
+			}, {
+				"term": "ADIBIDE",
+				"def": "ejemplo"
+			}, {
+				"term": "ADI EGON",
+				"def": "estar atento",
+				"hint": "👀"
+			}, {
+				"term": "ADIMEN",
+				"def": "inteligencia"
+			}, {
+				"term": "ADITU",
+				"def": "1 escuchar. 2 entender"
+			}, {
+				"term": "ADISKIDE",
+				"def": "amigo"
+			}, {
+				"term": "ADOS",
+				"def": "de acuerdo"
+			}, {
+				"term": "AFALDU",
+				"def": "cenar"
+			}, {
+				"term": "AFARI",
+				"def": "cena"
+			}, {
+				"term": "AGERTU",
+				"def": "aparecer"
+			}, {
+				"term": "AGUR",
+				"def": "1 adiós. 2 saludo (en general)"
+			}, {
+				"term": "AGURE",
+				"def": "anciano"
+			}, {
+				"term": "AGURTU",
+				"def": "1 saludar. 2 despedir",
+				"hint": "👋"
+			}, {
+				"term": "AHAZTU",
+				"def": "olvidar(se)",
+				"hint": "🔑😞"
+			}, {
+				"term": "AHIZPA",
+				"def": "hermana (de una mujer)"
+			}, {
+				"term": "AHO",
+				"def": "boca"
+			}, {
+				"term": "AITA",
+				"def": "padre"
+			}, {
+				"term": "AITONA",
+				"def": "abuelo"
+			}, {
+				"term": "AITORTU",
+				"def": "confesar"
+			}, {
+				"term": "ALABA",
+				"def": "hija"
+			}, {
+				"term": "ALAI",
+				"def": "alegre"
+			}, {
+				"term": "ALDE",
+				"def": "parte, lado"
+			}, {
+				"term": "ALDIZKARI",
+				"def": "revista"
+			}, {
+				"term": "ALFER",
+				"def": "vago"
+			}, {
+				"term": "ALKANDORA",
+				"def": "camisa"
+			}, {
+				"term": "ALKATE",
+				"def": "alcalde"
+			}, {
+				"term": "ALTU",
+				"def": "alto"
+			}, {
+				"term": "ALTXATU",
+				"def": "levantar(se) "
+			}, {
+				"term": "ALU",
+				"def": "vagina"
+			}, {
+				"term": "AMA",
+				"def": "madre"
+			}, {
+				"term": "AMAITU",
+				"def": "terminar "
+			}, {
+				"term": "AMONA",
+				"def": "abuela"
+			}, {
+				"term": "ANAIA",
+				"def": "hermano (de un hombre)"
+			}, {
+				"term": "ANAI-ARREBAK",
+				"def": "hermano(s) y hermana(s)"
+			}, {
+				"term": "ANDRE",
+				"def": "mujer"
+			}, {
+				"term": "ANTZERKI",
+				"def": "teatro"
+			}, {
+				"term": "APIRIL",
+				"def": "abril"
+			}, {
+				"term": "APURTU",
+				"def": "romper"
+			}, {
+				"term": "ARAZO",
+				"def": "problema",
+				"hint": "📝❓"
+			}, {
+				"term": "ARBEL",
+				"def": "pizarra, tablero"
+			}, {
+				"term": "ARDI",
+				"def": "oveja"
+			}, {
+				"term": "ARDO",
+				"def": "vino"
+			}, {
+				"term": "ARGAL",
+				"def": "delgado"
+			}, {
+				"term": "ARGAZKI",
+				"def": "fotografía"
+			}, {
+				"term": "ARGI",
+				"def": "1 luz. 2 claro"
+			}, {
+				"term": "ARI IZAN",
+				"def": "estar haciendo algo"
+			}, {
+				"term": "ARIKETA",
+				"def": "ejercicio",
+				"hint": "📝"
+			}, {
+				"term": "ARRAIN",
+				"def": "pez, pescado"
+			}, {
+				"term": "ARRANTZA",
+				"def": "1 pesca. 2 rebuzno"
+			}, {
+				"term": "ARRANTZALE",
+				"def": "pescador"
+			}, {
+				"term": "ARRATS",
+				"def": "anochecer"
+			}, {
+				"term": "ARRATSALDE",
+				"def": "tarde (sust.)"
+			}, {
+				"term": "ARRATSALDEON",
+				"def": "buenas tardes"
+			}, {
+				"term": "ARRAUTZA",
+				"def": "huevo",
+				"hint": "🍳"
+			}, {
+				"term": "ARRAZOI",
+				"def": "razón"
+			}, {
+				"term": "ARREBA",
+				"def": "hermana (de hombre)"
+			}, {
+				"term": "ARTALDE",
+				"def": "rebaño de ovejas"
+			}, {
+				"term": "ARTAZI",
+				"def": "tijeras"
+			}, {
+				"term": "ARTE",
+				"def": "1 hasta. 2 entre"
+			}, {
+				"term": "ARTO",
+				"def": "maiz"
+			}, {
+				"term": "ASKATASUN",
+				"def": "libertad"
+			}, {
+				"term": "ASKATU",
+				"def": "1 liberar. 2 soltar"
+			}, {
+				"term": "ASKO",
+				"def": "mucho(s)"
+			}, {
+				"term": "ASKOTAN",
+				"def": "muchas veces"
+			}, {
+				"term": "ASMATU",
+				"def": "acertar, inventar"
+			}, {
+				"term": "ASMO",
+				"def": "intención"
+			}, {
+				"term": "ASPALDIAN",
+				"def": "hace mucho tiempo"
+			}, {
+				"term": "ASPALDITIK",
+				"def": "desde hace tiempo"
+			}, {
+				"term": "ASPERTU",
+				"def": "aburrir(se)"
+			}, {
+				"term": "ASTE",
+				"def": "semana"
+			}, {
+				"term": "ASTEARTE",
+				"def": "martes"
+			}, {
+				"term": "ASTEAZKEN",
+				"def": "miércoles"
+			}, {
+				"term": "ASTEKARI",
+				"def": "semanario"
+			}, {
+				"term": "ASTELEHEN",
+				"def": "lunes"
+			}, {
+				"term": "ASTO",
+				"def": "burro",
+				"hint": "🐴"
+			}, {
+				"term": "ATARI",
+				"def": "portal"
+			}, {
+				"term": "ATE",
+				"def": "puerta"
+			}, {
+				"term": "ATERA",
+				"def": "1 salir. 2 sacar"
+			}, {
+				"term": "ATERTU",
+				"def": "escampar",
+				"hint": "☔➡☀"
+			}, {
+				"term": "ATSEGIN",
+				"def": "agradable"
+			}, {
+				"term": "ATZE",
+				"def": "atrás"
+			}, {
+				"term": "ATZO",
+				"def": "ayer"
+			}, {
+				"term": "AUKERATU",
+				"def": "elegir"
+			}, {
+				"term": "AULKI",
+				"def": "silla"
+			}, {
+				"term": "AURKITU",
+				"def": "encontrar"
+			}, {
+				"term": "AURPEGI",
+				"def": "cara, rostro"
+			}, {
+				"term": "AURRE",
+				"def": "delante, enfrente"
+			}, {
+				"term": "AUTO",
+				"def": "coche"
+			}, {
+				"term": "AUZO",
+				"def": "barrio"
+			}, {
+				"term": "AZAL",
+				"def": "piel"
+			}, {
+				"term": "AZALDU",
+				"def": "1 explicar. 2 aparecer",
+				"hint": "📖☝"
+			}, {
+				"term": "AZARO",
+				"def": "noviembre"
+			}, {
+				"term": "AZKAR",
+				"def": "1 rápido. 2 listo"
+			}, {
+				"term": "AZKEN",
+				"def": "último"
+			}, {
+				"term": "AZKENEAN",
+				"def": "por fin"
+			}, {
+				"term": "AZOKA",
+				"def": "mercado"
+			}, {
+				"term": "AZPI",
+				"def": "debajo"
+			}, {
+				"term": "AZTERKETA",
+				"def": "examen"
+			}, {
+				"term": "AZTERTU",
+				"def": "examinar"
+			}
+		]
+	}, {
+		"letter": "B",
+		"entries": [{
+				"term": "BADAEZPADA",
+				"def": "por si acaso"
+			}, {
+				"term": "BAI",
+				"def": "sí (afirmación)"
+			}, {
+				"term": "BAIETZ",
+				"def": "1 que sí. 2 a que sí"
+			}, {
+				"term": "BAINA",
+				"def": "pero"
+			}, {
+				"term": "BAIZIK",
+				"def": "sino"
+			}, {
+				"term": "BAKARRIK",
+				"def": "solo, solamente"
+			}, {
+				"term": "BAKOITZ",
+				"def": "cada uno"
+			}, {
+				"term": "BALDAR",
+				"def": "torpe"
+			}, {
+				"term": "BALIO IZAN",
+				"def": "valer"
+			}, {
+				"term": "BALKOI",
+				"def": "balcón"
+			}, {
+				"term": "BALOI",
+				"def": "balón"
+			}, {
+				"term": "BARAZKI",
+				"def": "verdura"
+			}, {
+				"term": "BARKATU",
+				"def": "1 perdonar. 2 ¡perdón!"
+			}, {
+				"term": "BARRE",
+				"def": "risa"
+			}, {
+				"term": "BARRE EGIN",
+				"def": "reír"
+			}, {
+				"term": "BARRU",
+				"def": "parte interior, dentro"
+			}, {
+				"term": "BASERRI",
+				"def": "caserío"
+			}, {
+				"term": "BASERRITAR",
+				"def": "habitante de un caserío"
+			}, {
+				"term": "BASO",
+				"def": "1 bosque. 2 vaso"
+			}, {
+				"term": "BAT",
+				"def": "uno "
+			}, {
+				"term": "BATZUETAN",
+				"def": "algunas veces"
+			}, {
+				"term": "BAZKALDU",
+				"def": "comer (al mediodía)"
+			}, {
+				"term": "BAZKARI",
+				"def": "comida (al mediodía)"
+			}, {
+				"term": "BEDERATZI",
+				"def": "nueve"
+			}, {
+				"term": "BEGI",
+				"def": "ojo"
+			}, {
+				"term": "BEGIRATU",
+				"def": "mirar"
+			}, {
+				"term": "BEHAR BADA",
+				"def": "quizá"
+			}, {
+				"term": "BEHAR IZAN",
+				"def": "1 necesitar. 2 deber hacer algo"
+			}, {
+				"term": "BEHATZ",
+				"def": "dedo"
+			}, {
+				"term": "BEHE",
+				"def": "parte inferior, abajo"
+			}, {
+				"term": "BEHI",
+				"def": "vaca"
+			}, {
+				"term": "BEHINTZAT",
+				"def": "al menos"
+			}, {
+				"term": "BELAR",
+				"def": "hierba"
+			}, {
+				"term": "BELARRI",
+				"def": "oreja"
+			}, {
+				"term": "BELTZ",
+				"def": "negro"
+			}, {
+				"term": "BENETAN",
+				"def": "de verdad"
+			}, {
+				"term": "BERANDU",
+				"def": "tarde (adv.)"
+			}, {
+				"term": "BERAZ",
+				"def": "por lo tanto"
+			}, {
+				"term": "BERDIN",
+				"def": "igual"
+			}, {
+				"term": "BEREHALA",
+				"def": "enseguida"
+			}, {
+				"term": "BEREZI",
+				"def": "especial"
+			}, {
+				"term": "BERO",
+				"def": "1 calor. 2 caliente"
+			}, {
+				"term": "BEROTU",
+				"def": "calentar"
+			}, {
+				"term": "BERREHUN",
+				"def": "doscientos"
+			}, {
+				"term": "BERRI",
+				"def": "1 nuevo. 2 noticia"
+			}, {
+				"term": "BERRIZ",
+				"def": "1 otra vez. 2 en cambio"
+			}, {
+				"term": "BERROGEI",
+				"def": "cuarenta"
+			}, {
+				"term": "BERROGEITA HAMAR",
+				"def": "cincuenta"
+			}, {
+				"term": "BERTSO",
+				"def": "verso"
+			}, {
+				"term": "BESO",
+				"def": "brazo"
+			}, {
+				"term": "BESTE",
+				"def": "otro"
+			}, {
+				"term": "BETAURREKO",
+				"def": "gafas"
+			}, {
+				"term": "BETE",
+				"def": "llenar"
+			}, {
+				"term": "BETI",
+				"def": "siempre"
+			}, {
+				"term": "BEZALA",
+				"def": "como (modal)"
+			}, {
+				"term": "BI",
+				"def": "dos"
+			}, {
+				"term": "BIDAIA",
+				"def": "viaje"
+			}, {
+				"term": "BIDE",
+				"def": "camino"
+			}, {
+				"term": "BIGUN",
+				"def": "blando"
+			}, {
+				"term": "BIHAR",
+				"def": "mañana (adv.)"
+			}, {
+				"term": "BIHOTZ",
+				"def": "corazón",
+				"hint": "❤"
+			}, {
+				"term": "BIHURRI",
+				"def": "travieso",
+				"hint": "😈"
+			}, {
+				"term": "BIKAIN",
+				"def": "excelente"
+			}, {
+				"term": "BIKOITZ",
+				"def": "doble"
+			}, {
+				"term": "BILDU",
+				"def": "1 recoger. 2 reunir"
+			}, {
+				"term": "BILERA",
+				"def": "reunión"
+			}, {
+				"term": "BITARTEAN",
+				"def": "mientras (tanto)"
+			}, {
+				"term": "BIZAR",
+				"def": "barba"
+			}, {
+				"term": "BIZI IZAN",
+				"def": "vivir"
+			}, {
+				"term": "BIZITZA",
+				"def": "vida "
+			}, {
+				"term": "BIZKOR",
+				"def": "rápido, fuerte"
+			}, {
+				"term": "BOLIGRAFO",
+				"def": "bolígrafo"
+			}, {
+				"term": "BOST",
+				"def": "cinco"
+			}, {
+				"term": "BOTA",
+				"def": "tirar"
+			}, {
+				"term": "BOTIKA",
+				"def": "farmacia "
+			}, {
+				"term": "BOTILA",
+				"def": "botella"
+			}, {
+				"term": "BUKATU",
+				"def": "acabar"
+			}, {
+				"term": "BULEGO",
+				"def": "oficina "
+			}, {
+				"term": "BURDINA",
+				"def": "hierro"
+			}, {
+				"term": "BURU",
+				"def": "cabeza"
+			}
+		]
+	}, {
+		"letter": "D",
+		"entries": [{
+				"term": "DANTZA",
+				"def": "baile"
+			}, {
+				"term": "DANTZATU",
+				"def": "bailar"
+			}, {
+				"term": "DARDAR",
+				"def": "temblor",
+				"hint": "〰"
+			}, {
+				"term": "DASTATU",
+				"def": "probar"
+			}, {
+				"term": "DEI",
+				"def": "llamada",
+				"hint": "🙋"
+			}, {
+				"term": "DEITU",
+				"def": "llamar"
+			}, {
+				"term": "DENBORA",
+				"def": "tiempo"
+			}, {
+				"term": "DENDA",
+				"def": "tienda"
+			}, {
+				"term": "DERRIGORREZKO",
+				"def": "obligatorio"
+			}, {
+				"term": "DITI",
+				"def": "pecho"
+			}, {
+				"term": "DITIBURU",
+				"def": "pezón"
+			}, {
+				"term": "DIRU",
+				"def": "dinero"
+			}, {
+				"term": "DOHAIN",
+				"def": "gratis"
+			}, {
+				"term": "DUIN",
+				"def": "digno"
+			}, {
+				"term": "DORRE",
+				"def": "torre"
+			}, {
+				"term": "DORTOKA",
+				"def": "tortuga"
+			}, {
+				"term": "DOTORE",
+				"def": "elegante"
+			}
+		]
+	}, {
+		"letter": "E",
+		"entries": [{
+				"term": "EDAN",
+				"def": "beber"
+			}, {
+				"term": "EDARI",
+				"def": "bebida"
+			}, {
+				"term": "EDER",
+				"def": "bonito, bello"
+			}, {
+				"term": "EDERKI",
+				"def": "bien"
+			}, {
+				"term": "EGARRI",
+				"def": "sed"
+			}, {
+				"term": "EGIA",
+				"def": "verdad"
+			}, {
+				"term": "EGIN",
+				"def": "hacer "
+			}, {
+				"term": "EGOKI",
+				"def": "adecuado"
+			}, {
+				"term": "EGON",
+				"def": "estar"
+			}, {
+				"term": "EGUN",
+				"def": "día"
+			}, {
+				"term": "EGUNKARI",
+				"def": "periódico"
+			}, {
+				"term": "EGUNON",
+				"def": "buenos días"
+			}, {
+				"term": "EGUR",
+				"def": "leña"
+			}, {
+				"term": "EGURALDI",
+				"def": "tiempo metereológico"
+			}, {
+				"term": "EGUTEGI",
+				"def": "calendario"
+			}, {
+				"term": "EGUZKI",
+				"def": "sol"
+			}, {
+				"term": "EKAIN",
+				"def": "junio"
+			}, {
+				"term": "EKARRI",
+				"def": "traer"
+			}, {
+				"term": "EKIALDE",
+				"def": "este, oriente"
+			}, {
+				"term": "ELUR",
+				"def": "nieve"
+			}, {
+				"term": "ELIZ",
+				"def": "iglesia "
+			}, {
+				"term": "EMAKUME",
+				"def": "mujer "
+			}, {
+				"term": "EMAN",
+				"def": "eman"
+			}, {
+				"term": "EMAZTE",
+				"def": "esposa"
+			}, {
+				"term": "EME",
+				"def": "hembra"
+			}, {
+				"term": "ERABILI",
+				"def": "usar, utilizar"
+			}, {
+				"term": "ERAKUTSI",
+				"def": "enseñar"
+			}, {
+				"term": "ERAMAN",
+				"def": "llevar"
+			}, {
+				"term": "ERANTZUN",
+				"def": "1 responder. 2 respuesta"
+			}, {
+				"term": "ERDI",
+				"def": "mitad, medio"
+			}, {
+				"term": "ERLOJU",
+				"def": "reloj"
+			}, {
+				"term": "ERORI",
+				"def": "caer(se)"
+			}, {
+				"term": "EROSI",
+				"def": "comprar "
+			}, {
+				"term": "ERRAZ",
+				"def": "fácil"
+			}, {
+				"term": "ESERI",
+				"def": "sentarse"
+			}, {
+				"term": "ESKER",
+				"def": "gracias"
+			}, {
+				"term": "ESKU",
+				"def": "mano"
+			}, {
+				"term": "ESKUMUTUR",
+				"def": "muñeca (de la mano)"
+			}, {
+				"term": "ESNATU",
+				"def": "despertar(se)"
+			}, {
+				"term": "ESNE",
+				"def": "leche"
+			}, {
+				"term": "ETORBIDE",
+				"def": "avenida"
+			}, {
+				"term": "ETXE",
+				"def": "casa"
+			}, {
+				"term": "EZ",
+				"def": "no (negación) "
+			}, {
+				"term": "EZKER",
+				"def": "izquierda"
+			}, {
+				"term": "EZTUL",
+				"def": "tos"
+			}
+		]
+	}, {
+		"letter": "G",
+		"entries": [{
+				"term": "GABE",
+				"def": "sin (<i>dirurik gabe</i>, sin dinero)"
+			}, {
+				"term": "GABON",
+				"def": "1 buenas noches. 2 navidades (pl.)"
+			}, {
+				"term": "GAINERA",
+				"def": "además"
+			}, {
+				"term": "GALDERA",
+				"def": "pregunta"
+			}, {
+				"term": "GALDETU",
+				"def": "preguntar"
+			}, {
+				"term": "GALDU",
+				"def": "perder"
+			}, {
+				"term": "GARAGARDO",
+				"def": "cerveza"
+			}, {
+				"term": "GARBI",
+				"def": "limpio"
+			}, {
+				"term": "GARBITU",
+				"def": "limpiar"
+			}, {
+				"term": "GAU",
+				"def": "noche"
+			}, {
+				"term": "GAUR",
+				"def": "hoy"
+			}, {
+				"term": "GAUZA",
+				"def": "cosa"
+			}, {
+				"term": "GAZTA",
+				"def": "queso"
+			}, {
+				"term": "GAZTE",
+				"def": "joven"
+			}, {
+				"term": "GELA",
+				"def": "habitación"
+			}, {
+				"term": "GELDIRIK",
+				"def": "quieto, parado"
+			}, {
+				"term": "GELDITU",
+				"def": "pararse"
+			}, {
+				"term": "GELTOKI",
+				"def": "parada, estación"
+			}, {
+				"term": "GERATU",
+				"def": "quedar(se)"
+			}, {
+				"term": "GERO",
+				"def": "luego"
+			}, {
+				"term": "GERTATU",
+				"def": "suceder"
+			}, {
+				"term": "GEZUR",
+				"def": "mentira",
+				"hint": "👺💬"
+			}, {
+				"term": "GILTZA",
+				"def": "llave"
+			}, {
+				"term": "GIRO",
+				"def": "ambiente"
+			}, {
+				"term": "GIZAKI",
+				"def": "ser humano"
+			}, {
+				"term": "GIZARTE",
+				"def": "sociedad"
+			}, {
+				"term": "GIZON",
+				"def": "hombre"
+			}, {
+				"term": "GOGO",
+				"def": "1 ganas. 2 espíritu"
+			}, {
+				"term": "GOGOR",
+				"def": "duro"
+			}, {
+				"term": "GOIZ",
+				"def": "mañana; <i>goizean</i>, a la mañana"
+			}, {
+				"term": "GONA",
+				"def": "falda"
+			}, {
+				"term": "GOR",
+				"def": "sordo"
+			}, {
+				"term": "GORDE",
+				"def": "guardar"
+			}, {
+				"term": "GORRI",
+				"def": "rojo"
+			}, {
+				"term": "GORROTO",
+				"def": "odio"
+			}, {
+				"term": "GOSALDU",
+				"def": "desayunar"
+			}, {
+				"term": "GOSARI",
+				"def": "desayuno"
+			}, {
+				"term": "GUTXI",
+				"def": "poco"
+			}
+		]
+	}, {
+		"letter": "H",
+		"entries": [{
+				"term": "HAGIN",
+				"def": "muela"
+			}, {
+				"term": "HANKA",
+				"def": "pierna"
+			}, {
+				"term": "HAMAR",
+				"def": "diez"
+			}, {
+				"term": "HARTU",
+				"def": "coger"
+			}, {
+				"term": "HASERRE",
+				"def": "enfadado"
+			}, {
+				"term": "HASERRETU",
+				"def": "enfadarse"
+			}, {
+				"term": "HAUR",
+				"def": "niño / niña"
+			}, {
+				"term": "HEGOALDE",
+				"def": "sur"
+			}, {
+				"term": "HELBIDE",
+				"def": "dirección"
+			}, {
+				"term": "HELBURU",
+				"def": "objetivo"
+			}, {
+				"term": "HELDU",
+				"def": "1 llegar. 2 agarrar"
+			}, {
+				"term": "HERRI",
+				"def": "pueblo"
+			}, {
+				"term": "HEZETASUN",
+				"def": "humedad"
+			}, {
+				"term": "HEZUR",
+				"def": "hueso"
+			}, {
+				"term": "HIL",
+				"def": "1 morir. 2 matar"
+			}, {
+				"term": "HILABETE",
+				"def": "mes"
+			}, {
+				"term": "HIRI",
+				"def": "ciudad"
+			}, {
+				"term": "HIRIBURU",
+				"def": "capital"
+			}, {
+				"term": "HIRU",
+				"def": "tres"
+			}, {
+				"term": "HITZ",
+				"def": "palabra"
+			}, {
+				"term": "HITZ EGIN",
+				"def": "hablar"
+			}, {
+				"term": "HIZKUNTZA",
+				"def": "lengua, idioma"
+			}, {
+				"term": "HIZTEGI",
+				"def": "diccionario"
+			}, {
+				"term": "HIZTUN",
+				"def": "hablante"
+			}, {
+				"term": "HODEI",
+				"def": "nube"
+			}, {
+				"term": "HOGEI",
+				"def": "veinte"
+			}, {
+				"term": "HONDARTZA",
+				"def": "playa "
+			}, {
+				"term": "HORI",
+				"def": "amarillo"
+			}, {
+				"term": "HORMA",
+				"def": "pared"
+			}, {
+				"term": "HOTZ",
+				"def": "frio"
+			}, {
+				"term": "HOZTU",
+				"def": "enfriar"
+			}, {
+				"term": "HURBIL",
+				"def": "cerca"
+			}, {
+				"term": "HURBILDU",
+				"def": "acercarse",
+				"hint": "☺➡⬅☺"
+			}, {
+				"term": "HUSTU",
+				"def": "vaciar"
+			}, {
+				"term": "HUTSIK",
+				"def": "vacio"
+			}, {
+				"term": "HUTSUNE",
+				"def": "hueco"
+			}
+		]
+	}, {
+		"letter": "I",
+		"entries": [{
+				"term": "IBILI",
+				"def": "andar"
+			}, {
+				"term": "IDATZI",
+				"def": "escribir"
+			}, {
+				"term": "IDAZLE",
+				"def": "escritor"
+			}, {
+				"term": "IGANDE",
+				"def": "domingo"
+			}, {
+				"term": "IGO",
+				"def": "subir"
+			}, {
+				"term": "IKASGELA",
+				"def": "aula"
+			}, {
+				"term": "IKASI",
+				"def": "1 aprender. 2 estudiar"
+			}, {
+				"term": "IKASLE",
+				"def": "alumno"
+			}, {
+				"term": "IKASTARO",
+				"def": "curso, cursillo"
+			}, {
+				"term": "IKASTETXE",
+				"def": "colegio"
+			}, {
+				"term": "IKUSI",
+				"def": "ver"
+			}, {
+				"term": "ILE",
+				"def": "pelo"
+			}, {
+				"term": "INDAR",
+				"def": "fuerza"
+			}, {
+				"term": "IPARRALDE",
+				"def": "norte"
+			}, {
+				"term": "IPINI",
+				"def": "poner"
+			}, {
+				"term": "IPUIN",
+				"def": "cuento"
+			}, {
+				"term": "IRABAZI",
+				"def": "ganar"
+			}, {
+				"term": "IRAIL",
+				"def": "septiembre"
+			}, {
+				"term": "IRAKASLE",
+				"def": "profesor"
+			}, {
+				"term": "IRAKATSI",
+				"def": "enseñar"
+			}, {
+				"term": "IRAKURRI",
+				"def": "leer"
+			}, {
+				"term": "IREKI",
+				"def": "abrir "
+			}, {
+				"term": "IRENTSI",
+				"def": "tragar"
+			}, {
+				"term": "IRLA",
+				"def": "isla",
+				"hint": "🌊🗻"
+			}, {
+				"term": "IRRATI",
+				"def": "radio"
+			}, {
+				"term": "IRTEERA",
+				"def": "salida "
+			}, {
+				"term": "IRUDI",
+				"def": "imagen, dibujo"
+			}, {
+				"term": "IRUDITU",
+				"def": "1 parecer. 2 imaginar"
+			}, {
+				"term": "ITURRI",
+				"def": "fuente"
+			}, {
+				"term": "ITXARON",
+				"def": "esperar"
+			}, {
+				"term": "ITXASO",
+				"def": "mar"
+			}, {
+				"term": "ITXI",
+				"def": "cerrar"
+			}, {
+				"term": "ITZALI",
+				"def": "apagar"
+			}, {
+				"term": "IXILDU",
+				"def": "callarse"
+			}, {
+				"term": "IXILIK",
+				"def": "en silencio"
+			}, {
+				"term": "IZAN",
+				"def": "ser"
+			}, {
+				"term": "IZAR",
+				"def": "estrella"
+			}, {
+				"term": "IZEKO",
+				"def": "tía",
+				"hint": "👪👩"
+			}, {
+				"term": "IZOTZ",
+				"def": "hielo"
+			}
+		]
+	}, {
+		"letter": "J",
+		"entries": [{
+				"term": "JABE",
+				"def": "dueño, amo"
+			}, {
+				"term": "JAI",
+				"def": "fiesta"
+			}, {
+				"term": "JAIKI",
+				"def": "levantarse"
+			}, {
+				"term": "JAINKO",
+				"def": "dios"
+			}, {
+				"term": "JAIO",
+				"def": "nacer"
+			}, {
+				"term": "JAITSI",
+				"def": "bajar"
+			}, {
+				"term": "JAKIN",
+				"def": "saber"
+			}, {
+				"term": "JAKIN-MIN",
+				"def": "curiosidad"
+			}, {
+				"term": "JAKA",
+				"def": "chaqueta"
+			}, {
+				"term": "JAKI",
+				"def": "alimento"
+			}, {
+				"term": "JAN",
+				"def": "comer"
+			}, {
+				"term": "JANARI",
+				"def": "comida"
+			}, {
+				"term": "JANTZI",
+				"def": "vestir(se)"
+			}, {
+				"term": "JARRAITU",
+				"def": "seguir"
+			}, {
+				"term": "JARRERA",
+				"def": "1 postura. 2 actitud"
+			}, {
+				"term": "JARRI",
+				"def": "1 poner. 2 sentarse"
+			}, {
+				"term": "JASAN",
+				"def": "soportar, aguantar"
+			}, {
+				"term": "JASO",
+				"def": "1 levantar. 2 recibir"
+			}, {
+				"term": "JATETXE",
+				"def": "restaurante"
+			}, {
+				"term": "JAUN",
+				"def": "dueño, señor"
+			}, {
+				"term": "JENDE",
+				"def": "gente"
+			}, {
+				"term": "JERTSE",
+				"def": "jersei"
+			}, {
+				"term": "JEZARRI",
+				"def": "sentarse"
+			}, {
+				"term": "JO",
+				"def": "1 golpear. 2 tocar"
+			}, {
+				"term": "JOAN",
+				"def": "ir"
+			}, {
+				"term": "JOKATU",
+				"def": "1 jugar. 2 comportarse"
+			}, {
+				"term": "JOKU",
+				"def": "juego"
+			}, {
+				"term": "JOLASTU",
+				"def": "jugar"
+			}, {
+				"term": "JOSI",
+				"def": "coser"
+			}, {
+				"term": "JOSTAILU",
+				"def": "juguete"
+			}, {
+				"term": "JOSTUN",
+				"def": "sastre, costurero"
+			}
+		]
+	}, {
+		"letter": "K",
+		"entries": [{
+				"term": "KAI",
+				"def": "puerto "
+			}, {
+				"term": "KAIOLA",
+				"def": "jaula"
+			}, {
+				"term": "KAIXO",
+				"def": "hola (saludo)"
+			}, {
+				"term": "KALE",
+				"def": "calle"
+			}, {
+				"term": "KALTE",
+				"def": "1 daño. 2 perjuicio"
+			}, {
+				"term": "KALTEGARRI",
+				"def": "perjudicial"
+			}, {
+				"term": "KANPO",
+				"def": "exterior"
+			}, {
+				"term": "KANPORATU",
+				"def": "extraer, expulsar"
+			}, {
+				"term": "KOMUN",
+				"def": "aseo, retrete"
+			}, {
+				"term": "KUTXA",
+				"def": "caja"
+			}
+		]
+	}, {
+		"letter": "L",
+		"entries": [{
+				"term": "LABUR",
+				"def": "corto"
+			}, {
+				"term": "LAGUN",
+				"def": "1 amigo. 2 persona"
+			}, {
+				"term": "LAGUNDU",
+				"def": "ayudar"
+			}, {
+				"term": "LAGUNTZA",
+				"def": "ayuda"
+			}, {
+				"term": "LAN",
+				"def": "trabajo"
+			}, {
+				"term": "LANDARE",
+				"def": "planta, vegetal",
+				"hint": "🌿"
+			}, {
+				"term": "LAN EGIN",
+				"def": "trabajar"
+			}, {
+				"term": "LANGILE",
+				"def": "trabajador"
+			}, {
+				"term": "LAINO",
+				"def": "niebla"
+			}, {
+				"term": "LARUNBAT",
+				"def": "sábado"
+			}, {
+				"term": "LARRU",
+				"def": "piel"
+			}, {
+				"term": "LASTER",
+				"def": "pronto"
+			}, {
+				"term": "LAU",
+				"def": "cuatro"
+			}, {
+				"term": "LAZTAN",
+				"def": "1 caricia. 2 amado, querido "
+			}, {
+				"term": "LAZTANDU",
+				"def": "acariciar"
+			}, {
+				"term": "LEGE",
+				"def": "ley"
+			}, {
+				"term": "LEHEN",
+				"def": "primero"
+			}, {
+				"term": "LEHENBAILEHEN",
+				"def": "cuanto antes"
+			}, {
+				"term": "LEHIA",
+				"def": "competencia"
+			}, {
+				"term": "LEKU",
+				"def": "sitio, lugar"
+			}, {
+				"term": "LIBURU",
+				"def": "libro"
+			}, {
+				"term": "LIBURUDENDA",
+				"def": "librería "
+			}, {
+				"term": "LIBURUTEGI",
+				"def": "biblioteca "
+			}, {
+				"term": "LO EGIN",
+				"def": "dormir"
+			}, {
+				"term": "LUZE",
+				"def": "largo"
+			}
+		]
+	}, {
+		"letter": "M",
+		"entries": [{
+				"term": "MAHAI",
+				"def": "mesa"
+			}, {
+				"term": "MAIATZ",
+				"def": "mayo"
+			}, {
+				"term": "MAILA",
+				"def": "nivel, curso"
+			}, {
+				"term": "MAITE",
+				"def": "amar, querer"
+			}, {
+				"term": "MAKILA",
+				"def": "1 palo. 2 bastón"
+			}, {
+				"term": "MAKINA",
+				"def": "máquina"
+			}, {
+				"term": "MALKO",
+				"def": "lágrima"
+			}, {
+				"term": "MARGO",
+				"def": "pintura"
+			}, {
+				"term": "MARGOTU",
+				"def": "pintar"
+			}, {
+				"term": "MARINEL",
+				"def": "marinero"
+			}, {
+				"term": "MARMAR",
+				"def": "murumullo, murmuración",
+				"hint": "🎤😄😆😃😁"
+			}, {
+				"term": "MARRAZKI",
+				"def": "dibujo"
+			}, {
+				"term": "MARTXO",
+				"def": "marzo"
+			}, {
+				"term": "MEHE",
+				"def": "delgado"
+			}, {
+				"term": "MENDE",
+				"def": "siglo"
+			}, {
+				"term": "MENDEBALDE",
+				"def": "oeste"
+			}, {
+				"term": "MENDI",
+				"def": "monte"
+			}, {
+				"term": "MEREZI",
+				"def": "merecer"
+			}, {
+				"term": "MERKE",
+				"def": "barato"
+			}, {
+				"term": "MESEDE",
+				"def": "favor"
+			}, {
+				"term": "MESEDEZ",
+				"def": "por favor"
+			}, {
+				"term": "MEZA",
+				"def": "misa",
+				"hint": "⛪"
+			}, {
+				"term": "MIHI",
+				"def": "lengua"
+			}, {
+				"term": "MILA",
+				"def": "mil"
+			}, {
+				"term": "MIN",
+				"def": "dolor "
+			}, {
+				"term": "MIN EGIN",
+				"def": "hacer daño"
+			}, {
+				"term": "MIN HARTU",
+				"def": "hacerse daño"
+			}, {
+				"term": "MINUTU",
+				"def": "minuto"
+			}, {
+				"term": "MINTZATU",
+				"def": "hablar"
+			}, {
+				"term": "MIRARI",
+				"def": "milagro"
+			}, {
+				"term": "MOLDATU",
+				"def": "arreglar, apañar"
+			}, {
+				"term": "MOTA",
+				"def": "clase, tipo"
+			}, {
+				"term": "MOTEL",
+				"def": "lento, flojo"
+			}, {
+				"term": "MOTZ",
+				"def": "corto"
+			}, {
+				"term": "MOZKOR",
+				"def": "1 borracho. 2 borrachera"
+			}, {
+				"term": "MOZKORTI",
+				"def": "borracho"
+			}, {
+				"term": "MOZKORTU",
+				"def": "emborrachar(se)"
+			}, {
+				"term": "MOZTU",
+				"def": "cortar"
+			}, {
+				"term": "MUGA",
+				"def": "límite, frontera"
+			}, {
+				"term": "MUGITU",
+				"def": "mover(se)"
+			}, {
+				"term": "MUKIZAPI",
+				"def": "pañuelo"
+			}, {
+				"term": "MUNDU",
+				"def": "mundo"
+			}, {
+				"term": "MUSIKA",
+				"def": "música"
+			}, {
+				"term": "MUSU",
+				"def": "beso"
+			}, {
+				"term": "MUSU EMAN",
+				"def": "besar"
+			}, {
+				"term": "MUTIL",
+				"def": "chico, muchacho"
+			}
+		]
+	}, {
+		"letter": "N",
+		"entries": [{
+				"term": "NABARI",
+				"def": "patente, manifiesto"
+			}, {
+				"term": "NABARITU",
+				"def": "percibir, notar"
+			}, {
+				"term": "NAGUSI",
+				"def": "1 principal, mayor. 2 jefe, amo"
+			}, {
+				"term": "NAHASI",
+				"def": "1 mezclar, -ado. 2 revolver, revuelto. 3 confundir"
+			}, {
+				"term": "NAHASTU",
+				"def": "1 mezclar, -ado. 2 revolver, revuelto. 3 confundir"
+			}, {
+				"term": "NAHI",
+				"def": "1 querer. 2 deseo"
+			}, {
+				"term": "NAHIAGO",
+				"def": "preferir"
+			}, {
+				"term": "NAHIKO",
+				"def": "suficiente, bastante"
+			}, {
+				"term": "NARRAS",
+				"def": "desaliñado, sucio"
+			}, {
+				"term": "NAZKA",
+				"def": "asco, repugnancia"
+			}, {
+				"term": "NAZKAGARRI",
+				"def": "asqueroso, repugnante"
+			}, {
+				"term": "NAZKATU",
+				"def": "asquearse, hartarse"
+			}, {
+				"term": "NEBA",
+				"def": "hermano (de una mujer)"
+			}, {
+				"term": "NEGAR",
+				"def": "lloro, llanto"
+			}, {
+				"term": "NEGAR EGIN",
+				"def": "llorar"
+			}, {
+				"term": "NEGU",
+				"def": "invierno"
+			}, {
+				"term": "NEKATU",
+				"def": "cansar(se)"
+			}, {
+				"term": "NEKAZARI",
+				"def": "labrador, campesino"
+			}, {
+				"term": "NESKA",
+				"def": "chica"
+			}, {
+				"term": "NEURRI",
+				"def": "medida"
+			}, {
+				"term": "NEURTU",
+				"def": "medir"
+			}, {
+				"term": "NOIZ",
+				"def": "¿cuándo?"
+			}, {
+				"term": "NOIZKO",
+				"def": "¿de cuándo?, ¿para cuándo?"
+			}, {
+				"term": "NOIZTIK",
+				"def": "¿desde cuándo?"
+			}, {
+				"term": "NOLA",
+				"def": "¿cómo? (de qué modo)"
+			}, {
+				"term": "NOLA EDO HALA",
+				"def": "de una u otra forma"
+			}, {
+				"term": "NOLAKO",
+				"def": "¿cómo? (cualidad",
+				"def": "de qué clase, de qué tipo)"
+			}, {
+				"term": "NON",
+				"def": "¿dónde?"
+			}, {
+				"term": "NONGO",
+				"def": "¿de dónde? (sin movimiento)"
+			}, {
+				"term": "NONDIK",
+				"def": "¿de (desde, por) dónde?"
+			}, {
+				"term": "NORA",
+				"def": "¿a dónde?"
+			}, {
+				"term": "NORAINO",
+				"def": "¿hasta dónde?"
+			}, {
+				"term": "NORANTZ",
+				"def": "¿hacia dónde?"
+			}, {
+				"term": "NOR",
+				"def": "¿quién?"
+			}, {
+				"term": "NORI",
+				"def": "¿a quién? (indirecto)"
+			}, {
+				"term": "NORK",
+				"def": "¿quién? (sujeto de v. trans.)"
+			}, {
+				"term": "NOREN",
+				"def": "¿de quién?"
+			}, {
+				"term": "NOREKIN",
+				"def": "¿con quién?"
+			}, {
+				"term": "NORENTZAT",
+				"def": "¿para quién?"
+			}, {
+				"term": "NORENGANA",
+				"def": "¿a donde quién?"
+			}, {
+				"term": "NORBAIT",
+				"def": "¿alguien?"
+			}, {
+				"term": "NOSKI",
+				"def": "claro, sin duda"
+			}
+		]
+	}, {
+		"letter": "O",
+		"entries": [{
+				"term": "ODOL",
+				"def": "sangre"
+			}, {
+				"term": "OGI",
+				"def": "pan"
+			}, {
+				"term": "OGITARTEKO",
+				"def": "bocadillo"
+			}, {
+				"term": "OHAR",
+				"def": "observación, advertencia"
+			}, {
+				"term": "OHE",
+				"def": "cama"
+			}, {
+				"term": "OHERATU",
+				"def": "ir a la cama"
+			}, {
+				"term": "OHITURA",
+				"def": "costumbre"
+			}, {
+				"term": "OIHU",
+				"def": "grito",
+				"hint": "😱"
+			}, {
+				"term": "OIHUKA",
+				"def": "gritando"
+			}, {
+				"term": "OILAR",
+				"def": "gallo"
+			}, {
+				"term": "OILASKO",
+				"def": "pollo"
+			}, {
+				"term": "OILO",
+				"def": "gallina"
+			}, {
+				"term": "OIN",
+				"def": "pie"
+			}, {
+				"term": "OINEZ",
+				"def": "a pie"
+			}, {
+				"term": "OKER",
+				"def": "torcido, mal"
+			}, {
+				"term": "OKERTU",
+				"def": "torcer"
+			}, {
+				"term": "OLATU",
+				"def": "domar",
+				"hint": "🐺➡🐶"
+			}, {
+				"term": "OLIO",
+				"def": "aceite"
+			}, {
+				"term": "ON",
+				"def": "bueno"
+			}, {
+				"term": "ONARTU",
+				"def": "aceptar, admitir"
+			}, {
+				"term": "ONDO",
+				"def": "bien"
+			}, {
+				"term": "ONDOAN",
+				"def": "al lado, junto a"
+			}, {
+				"term": "ONDOREN",
+				"def": "después, a continuación"
+			}, {
+				"term": "ONGI",
+				"def": "bien"
+			}, {
+				"term": "ONTZI",
+				"def": "recipiente, vasija",
+				"hint": "🍶"
+			}, {
+				"term": "OPARI",
+				"def": "regalo "
+			}, {
+				"term": "OPOR",
+				"def": "vacación"
+			}, {
+				"term": "OPORRETAN",
+				"def": "de vacaciones"
+			}, {
+				"term": "ORAIN",
+				"def": "ahora"
+			}, {
+				"term": "ORAINDIK",
+				"def": "todavía"
+			}, {
+				"term": "ORAINTXE",
+				"def": "ahora mismo"
+			}, {
+				"term": "ORDAINDU",
+				"def": "pagar"
+			}, {
+				"term": "ORDEA",
+				"def": "en cambio"
+			}, {
+				"term": "ORDEZ",
+				"def": "en vez de"
+			}, {
+				"term": "ORDU",
+				"def": "hora"
+			}, {
+				"term": "ORDUAN",
+				"def": "entonces"
+			}, {
+				"term": "OROITU",
+				"def": "acordarse, recordar"
+			}, {
+				"term": "ORRATZ",
+				"def": "aguja "
+			}, {
+				"term": "ORRAZI",
+				"def": "peine",
+				"hint": "💇"
+			}, {
+				"term": "ORRAZTU",
+				"def": "peinar "
+			}, {
+				"term": "ORRI",
+				"def": "hoja"
+			}, {
+				"term": "ORRIALDE",
+				"def": "página "
+			}, {
+				"term": "OSABA",
+				"def": "tío"
+			}, {
+				"term": "OSASUN",
+				"def": "salud"
+			}, {
+				"term": "OSATU",
+				"def": "1 completar. 2 sanar, curar(se)"
+			}, {
+				"term": "OSO",
+				"def": "1 muy <i>oso polita</i>, \" muy bonito,-a \". 2 entero"
+			}, {
+				"term": "OSPATU",
+				"def": "celebrar"
+			}, {
+				"term": "OSPETSU",
+				"def": "famoso "
+			}, {
+				"term": "OSPITALE",
+				"def": "hospital"
+			}, {
+				"term": "OSTEGUN",
+				"def": "jueves"
+			}, {
+				"term": "OSTIRAL",
+				"def": "viernes"
+			}, {
+				"term": "OTSAIL",
+				"def": "febrero"
+			}, {
+				"term": "OTSO",
+				"def": "lobo"
+			}
+		]
+	}, {
+		"letter": "P",
+		"entries": [{
+				"term": "PAPER",
+				"def": "papel"
+			}, {
+				"term": "PARETA",
+				"def": "pared"
+			}, {
+				"term": "PRAKA",
+				"def": "pantalon"
+			}, {
+				"term": "PASATU",
+				"def": "pasar"
+			}, {
+				"term": "PATXADA",
+				"def": "sosiego, tranquilidad",
+				"hint": "💤"
+			}, {
+				"term": "PENTSATU",
+				"def": "pensar"
+			}, {
+				"term": "PERPAUS",
+				"def": "frase, oración"
+			}, {
+				"term": "PERRETXIKO",
+				"def": "seta, hongo"
+			}, {
+				"term": "PERTSONA",
+				"def": "persona"
+			}, {
+				"term": "PETRAL",
+				"def": "rebelde, atravesado"
+			}, {
+				"term": "PILOTA",
+				"def": "pelota"
+			}, {
+				"term": "PILOTALEKU",
+				"def": "frontón"
+			}, {
+				"term": "PILOTARI",
+				"def": "pelotari"
+			}, {
+				"term": "PISU",
+				"def": "peso"
+			}, {
+				"term": "PITIN BAT",
+				"def": "un poquito"
+			}, {
+				"term": "PITXER",
+				"def": "jarra"
+			}, {
+				"term": "PIXKA BAT",
+				"def": "un poco"
+			}, {
+				"term": "PIZTU",
+				"def": "encender, encendido"
+			}, {
+				"term": "PLANTA",
+				"def": "actitud, facha"
+			}, {
+				"term": "PLATER",
+				"def": "plato"
+			}, {
+				"term": "PLAZA",
+				"def": "plaza"
+			}, {
+				"term": "POLIKI",
+				"def": "despacio"
+			}, {
+				"term": "POLIT",
+				"def": "bonito"
+			}, {
+				"term": "POLTSIKO",
+				"def": "bolsillo"
+			}, {
+				"term": "PORRU",
+				"def": "puerro"
+			}, {
+				"term": "POXPOLU",
+				"def": "cerilla, fósforo"
+			}, {
+				"term": "POZ",
+				"def": "alegría",
+				"hint": "😃"
+			}, {
+				"term": "POZIK",
+				"def": "contento"
+			}, {
+				"term": "PRESA",
+				"def": "prisa"
+			}, {
+				"term": "PRESAKA",
+				"def": "de prisa"
+			}, {
+				"term": "PRESTATU",
+				"def": "preparar"
+			}, {
+				"term": "PUSKA",
+				"def": "pedazo, trozo"
+			}, {
+				"term": "PUSKATU",
+				"def": "romper"
+			}, {
+				"term": "PUTZU",
+				"def": "pozo"
+			}
+		]
+	}, {
+		"letter": "S",
+		"entries": [{
+				"term": "SABEL",
+				"def": "vientre"
+			}, {
+				"term": "SAGAR",
+				"def": "manzana"
+			}, {
+				"term": "SAGARDO",
+				"def": "sidra "
+			}, {
+				"term": "SAGU",
+				"def": "ratón"
+			}, {
+				"term": "SAIATU",
+				"def": "intentar, esforzarse"
+			}, {
+				"term": "SAIO",
+				"def": "1 prueba, ensayo. 2 actuación, función"
+			}, {
+				"term": "SAKATU",
+				"def": "pulsar, presionar"
+			}, {
+				"term": "SAKON",
+				"def": "profundo"
+			}, {
+				"term": "SALDA",
+				"def": "caldo",
+				"hint": "🍲"
+			}, {
+				"term": "SALDU",
+				"def": "vender"
+			}, {
+				"term": "SALGAI",
+				"def": "en venta"
+			}, {
+				"term": "SALTO",
+				"def": "salto"
+			}, {
+				"term": "SALTOKA",
+				"def": "a saltos"
+			}, {
+				"term": "SAMAR",
+				"def": "bastante"
+			}, {
+				"term": "SAMUR",
+				"def": "tierno"
+			}, {
+				"term": "SARI",
+				"def": "premio"
+			}, {
+				"term": "SARRERA",
+				"def": "1 entrada. 2 introducción"
+			}, {
+				"term": "SARTU",
+				"def": "1 entrar. 2 meter"
+			}, {
+				"term": "SEGURU",
+				"def": "seguro"
+			}, {
+				"term": "SEGURU ASKI",
+				"def": "seguramente"
+			}, {
+				"term": "SEI",
+				"def": "seis"
+			}, {
+				"term": "SEKULA EZ",
+				"def": "nunca"
+			}, {
+				"term": "SEME",
+				"def": "hijo"
+			}, {
+				"term": "SEME-ALABAK",
+				"def": "hijo(s) e hija(s)"
+			}, {
+				"term": "SENAR",
+				"def": "marido"
+			}, {
+				"term": "SENDAGILE",
+				"def": "médico"
+			}, {
+				"term": "SENDATU",
+				"def": "curar"
+			}, {
+				"term": "SENIDE",
+				"def": "familar, pariente"
+			}, {
+				"term": "SINETSI",
+				"def": "creer"
+			}, {
+				"term": "SOINEKO",
+				"def": "vestido",
+				"hint": "👗"
+			}, {
+				"term": "SOKA",
+				"def": "cuerda "
+			}, {
+				"term": "SORTU",
+				"def": "1 nacer. 2 crear"
+			}, {
+				"term": "SORGIN",
+				"def": "bruja"
+			}, {
+				"term": "SU",
+				"def": "fuego"
+			}, {
+				"term": "SUDUR",
+				"def": "nariz"
+			}, {
+				"term": "SUKALDE",
+				"def": "cocina"
+			}
+		]
+	}, {
+		"letter": "T",
+		"entries": [{
+				"term": "TALDE",
+				"def": "grupo"
+			}, {
+				"term": "TANTA",
+				"def": "gota"
+			}, {
+				"term": "TEILATU",
+				"def": "tejado"
+			}, {
+				"term": "TELEBISTA",
+				"def": "televisión"
+			}, {
+				"term": "TELEFONO",
+				"def": "teléfono"
+			}, {
+				"term": "TOKI",
+				"def": "sitio, lugar",
+				"hint": "🌏👈"
+			}, {
+				"term": "TOPO EGIN",
+				"def": "encontrarse con alguien "
+			}, {
+				"term": "TREBE",
+				"def": "hábil"
+			}, {
+				"term": "TREN",
+				"def": "tren"
+			}, {
+				"term": "TRENBIDE",
+				"def": "ferrocarril"
+			}, {
+				"term": "TRESNA",
+				"def": "aparato"
+			}, {
+				"term": "TRISTE",
+				"def": "triste"
+			}, {
+				"term": "TXAKUR",
+				"def": "perro "
+			}, {
+				"term": "TXALO",
+				"def": "aplauso"
+			}, {
+				"term": "TXANDA",
+				"def": "turno"
+			}, {
+				"term": "TXANPON",
+				"def": "moneda "
+			}, {
+				"term": "TXAPEL",
+				"def": "boina"
+			}, {
+				"term": "TXAPELDUN",
+				"def": "campeón"
+			}, {
+				"term": "TXAR",
+				"def": "malo"
+			}, {
+				"term": "TXERRI",
+				"def": "cerdo "
+			}, {
+				"term": "TXERTATU",
+				"def": "injertar"
+			}, {
+				"term": "TXARTO",
+				"def": "mal (adv.)"
+			}, {
+				"term": "TXIKI",
+				"def": "pequeño"
+			}, {
+				"term": "TXIMINIA",
+				"def": "chimenea"
+			}, {
+				"term": "TXISTU",
+				"def": "1 silbido. 2 Instrumento musical"
+			}, {
+				"term": "TXOKO",
+				"def": "rincón"
+			}, {
+				"term": "TXORI",
+				"def": "pájaro"
+			}, {
+				"term": "TXUKUN",
+				"def": "arreglado, aseado"
+			}, {
+				"term": "TXUNDITU",
+				"def": "asombrar(se)"
+			}
+		]
+	}, {
+		"letter": "U",
+		"entries": [{
+				"term": "UDA",
+				"def": "verano"
+			}, {
+				"term": "UDABERRI",
+				"def": "primavera"
+			}, {
+				"term": "UDAL",
+				"def": "ayuntamiento"
+			}, {
+				"term": "UDALETXE",
+				"def": "casa consistorial"
+			}, {
+				"term": "UDAZKEN",
+				"def": "otoño"
+			}, {
+				"term": "UGARI",
+				"def": "abundante"
+			}, {
+				"term": "UKATU",
+				"def": "negar"
+			}, {
+				"term": "UKITU",
+				"def": "tocar"
+			}, {
+				"term": "ULERTU",
+				"def": "comprender, entender"
+			}, {
+				"term": "UME",
+				"def": "niño / niña"
+			}, {
+				"term": "UNIBERTSITATE",
+				"def": "universidad"
+			}, {
+				"term": "UNE",
+				"def": "momento"
+			}, {
+				"term": "UR",
+				"def": "agua"
+			}, {
+				"term": "URDIN",
+				"def": "azul"
+			}, {
+				"term": "URDURI",
+				"def": "nervioso"
+			}, {
+				"term": "URRATU",
+				"def": "desgarrar"
+			}, {
+				"term": "URRI",
+				"def": "1 octubre. 2 escaso"
+			}, {
+				"term": "URRUN",
+				"def": "lejos"
+			}, {
+				"term": "URRUTI",
+				"def": "lejos"
+			}, {
+				"term": "URTARRIL",
+				"def": "enero"
+			}, {
+				"term": "URTE",
+				"def": "año"
+			}, {
+				"term": "URTEBETETZE",
+				"def": "cumpleaños"
+			}, {
+				"term": "USAIN",
+				"def": "olor"
+			}, {
+				"term": "USAINDU",
+				"def": "oler"
+			}, {
+				"term": "USTE",
+				"def": "1 opinar. 2 opinión"
+			}, {
+				"term": "UTZI",
+				"def": "dejar"
+			}, {
+				"term": "UZTAIL",
+				"def": "julio"
+			}
+		]
+	}, {
+		"letter": "X",
+		"entries": [{
+				"term": "XABOI",
+				"def": "jabón"
+			}, {
+				"term": "XAHUTU",
+				"def": "despilfarrar"
+			}, {
+				"term": "XEDE",
+				"def": "objetivo, meta"
+			}, {
+				"term": "XEHE",
+				"def": "menudo"
+			}, {
+				"term": "XURGATU",
+				"def": "chupar, succionar"
+			}
+		]
+	}, {
+		"letter": "Z",
+		"entries": [{
+				"term": "ZABAL",
+				"def": "ancho"
+			}, {
+				"term": "ZABALDU",
+				"def": "1 abrir. 2 extender"
+			}, {
+				"term": "ZABALIK",
+				"def": "abierto"
+			}, {
+				"term": "ZABOR",
+				"def": "basura"
+			}, {
+				"term": "ZAHAR",
+				"def": "viejo"
+			}, {
+				"term": "ZAIL",
+				"def": "difícil"
+			}, {
+				"term": "ZAIN EGON",
+				"def": "estar esperando",
+				"hint": "🕐🕑🕒😐"
+			}, {
+				"term": "ZAINDU",
+				"def": "cuidar"
+			}, {
+				"term": "ZAKAR",
+				"def": "rudo, tosco"
+			}, {
+				"term": "ZAKIL",
+				"def": "pene"
+			}, {
+				"term": "ZALDI",
+				"def": "caballo"
+			}, {
+				"term": "ZALE",
+				"def": "aficionado"
+			}, {
+				"term": "ZALETASUN",
+				"def": "afición",
+				"hint": "🎺🎳🏀"
+			}, {
+				"term": "ZAMA",
+				"def": "carga"
+			}, {
+				"term": "ZAPALDU",
+				"def": "aplastar, pisar"
+			}, {
+				"term": "ZAPATA",
+				"def": "zapato"
+			}, {
+				"term": "ZAPI",
+				"def": "pañuelo"
+			}, {
+				"term": "ZATI",
+				"def": "trozo"
+			}, {
+				"term": "ZAUNKA",
+				"def": "ladrido",
+				"hint": "🐩"
+			}, {
+				"term": "ZAURI",
+				"def": "herida"
+			}, {
+				"term": "ZAZPI",
+				"def": "siete"
+			}, {
+				"term": "ZEHARO",
+				"def": "totalmente, completamente"
+			}, {
+				"term": "ZEHATZ",
+				"def": "preciso, detallado"
+			}, {
+				"term": "ZEIN",
+				"def": "cuál, quién"
+			}, {
+				"term": "ZELAI",
+				"def": "prado"
+			}, {
+				"term": "ZENBAKI",
+				"def": "número"
+			}, {
+				"term": "ZENBAIT",
+				"def": "algunos, varios"
+			}, {
+				"term": "ZENBAT",
+				"def": "¿cuánto(s)?",
+				"hint": "💵?"
+			}, {
+				"term": "ZER",
+				"def": "¿qué?"
+			}, {
+				"term": "ZERBAIT",
+				"def": "algo"
+			}, {
+				"term": "ZERBITZARI",
+				"def": "servidor"
+			}, {
+				"term": "ZERBITZU",
+				"def": "servicio"
+			}, {
+				"term": "ZERGA",
+				"def": "impuesto"
+			}, {
+				"term": "ZERGATIK",
+				"def": "¿por qué?"
+			}, {
+				"term": "ZER MODUZ",
+				"def": "¿qué tal?"
+			}, {
+				"term": "ZERRENDA",
+				"def": "lista"
+			}, {
+				"term": "ZERTAN",
+				"def": "¿en qué?"
+			}, {
+				"term": "ZERTARA",
+				"def": "¿a qué?"
+			}, {
+				"term": "ZERTARAKO",
+				"def": "¿para qué?"
+			}, {
+				"term": "ZERTAZ",
+				"def": "¿a cerca de qué?"
+			}, {
+				"term": "ZERU",
+				"def": "cielo"
+			}, {
+				"term": "ZEZEN",
+				"def": "toro"
+			}, {
+				"term": "ZIGARRO",
+				"def": "cigarro"
+			}, {
+				"term": "ZIGOR",
+				"def": "castigo"
+			}, {
+				"term": "ZIGORTU",
+				"def": "castigar"
+			}, {
+				"term": "ZIKIN",
+				"def": "sucio"
+			}, {
+				"term": "ZIKINDU",
+				"def": "ensuciar "
+			}, {
+				"term": "ZINEMA",
+				"def": "cine"
+			}, {
+				"term": "ZINTZILIK",
+				"def": "colgando",
+				"hint": "🍒"
+			}, {
+				"term": "ZINTZO",
+				"def": "formal, honrado"
+			}, {
+				"term": "ZIRRIBORRO",
+				"def": "1 garabato. 2 borrador"
+			}, {
+				"term": "ZOPA",
+				"def": "sopa"
+			}, {
+				"term": "ZORAGARRI",
+				"def": "encantador, maravilloso"
+			}, {
+				"term": "ZORATU",
+				"def": "enloquecer"
+			}, {
+				"term": "ZORION",
+				"def": "1 felicidad. 2 enhorabuena (en plural)"
+			}, {
+				"term": "ZORIONEZ",
+				"def": "afortunadamente"
+			}, {
+				"term": "ZORITXAR",
+				"def": "desgracia"
+			}, {
+				"term": "ZORO",
+				"def": "loco"
+			}, {
+				"term": "ZORROTZ",
+				"def": "1 afilado, agudo. 2 perspicaz. 3 exigente"
+			}, {
+				"term": "ZORROZTU",
+				"def": "afilar"
+			}, {
+				"term": "ZORTZI",
+				"def": "ocho"
+			}, {
+				"term": "ZUBI",
+				"def": "puente"
+			}, {
+				"term": "ZUHAITZ",
+				"def": "árbol"
+			}, {
+				"term": "ZULO",
+				"def": "agujero"
+			}, {
+				"term": "ZUR",
+				"def": "madera"
+			}, {
+				"term": "ZURI",
+				"def": "blanco"
+			}, {
+				"term": "ZURITU",
+				"def": "1 blanquear. 2 pelar, mondar"
+			}, {
+				"term": "ZUTIK",
+				"def": "de pie"
+			}, {
+				"term": "ZUZEN",
+				"def": "derecho"
+			}, {
+				"term": "ZUZENDARI",
+				"def": "director"
+			}
+		]
+	}
+]
