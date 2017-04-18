@@ -9,17 +9,18 @@
     <article id="roulette"></article>
 	<script type="text/javascript" src="js/word-roulette.js"></script>
     <script type="text/javascript">
+	if (navigator.serviceWorker) {
 		navigator.serviceWorker.register('service-worker.js', {
 			scope: './'
 		});
-		
-		var erruleta = new WordRoulette({
-			target: "roulette",
-			dataSource: "lang/eu.json"
-		});
-        window.onload = function () {
-            erruleta.init();
-        };
+	}
+	var erruleta = new WordRoulette({
+		target: "roulette",
+		dataSource: "lang/eu.json"
+	});
+	window.onload = function () {
+		erruleta.init();
+	};
     </script>
 </body>
 </html>
