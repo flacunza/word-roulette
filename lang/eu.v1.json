@@ -112,9 +112,6 @@
 				"term": "ANAI-ARREBAK",
 				"def": "hermano(s) y hermana(s)"
 			}, {
-				"term": "ANANA",
-				"def": "piña"
-			}, {
 				"term": "ANDRE",
 				"def": "mujer"
 			}, {
@@ -195,9 +192,6 @@
 			}, {
 				"term": "ARTO",
 				"def": "maiz"
-			}, {
-				"term": "ASKARI",
-				"def": "merienda"
 			}, {
 				"term": "ASKATASUN",
 				"def": "libertad"
@@ -298,9 +292,6 @@
 				"term": "AZARO",
 				"def": "noviembre"
 			}, {
-				"term": "AZENARIO",
-				"def": "zanahoria"
-			}, {
 				"term": "AZKAR",
 				"def": "1 rápido. 2 listo"
 			}, {
@@ -321,17 +312,11 @@
 			}, {
 				"term": "AZTERTU",
 				"def": "examinar"
-			}, {
-				"term": "AZUKRE",
-				"def": "azúcar"
 			}
 		]
 	}, {
 		"letter": "B",
 		"entries": [{
-				"term": "BABARRUN",
-				"def": "alubia"
-			}, {
 				"term": "BADAEZPADA",
 				"def": "por si acaso"
 			}, {
@@ -349,9 +334,6 @@
 			}, {
 				"term": "BAKARRIK",
 				"def": "solo, solamente"
-			}, {
-				"term": "BAKAILAO",
-				"def": "bacalao"
 			}, {
 				"term": "BAKOITZ",
 				"def": "cada uno"
@@ -565,9 +547,6 @@
 				"term": "BOTILA",
 				"def": "botella"
 			}, {
-				"term": "BUDIN",
-				"def": "flan"
-			}, {
 				"term": "BUKATU",
 				"def": "acabar"
 			}, {
@@ -579,9 +558,6 @@
 			}, {
 				"term": "BURU",
 				"def": "cabeza"
-			}, {
-				"term": "BUSTI",
-				"def": "mojar"
 			}
 		]
 	}, {
@@ -613,17 +589,8 @@
 				"term": "DENDA",
 				"def": "tienda"
 			}, {
-				"term": "DENETIK",
-				"def": "de todo"
-			}, {
 				"term": "DERRIGORREZKO",
 				"def": "obligatorio"
-			}, {
-				"term": "DESEGIN",
-				"def": "deshacer"
-			}, {
-				"term": "DILISTA",
-				"def": "lenteja"
 			}, {
 				"term": "DITI",
 				"def": "pecho"
@@ -672,16 +639,13 @@
 				"def": "verdad"
 			}, {
 				"term": "EGIN",
-				"def": "hacer"
+				"def": "hacer "
 			}, {
 				"term": "EGOKI",
 				"def": "adecuado"
 			}, {
 				"term": "EGON",
 				"def": "estar"
-			}, {
-				"term": "EGOSI",
-				"def": "cocer"
 			}, {
 				"term": "EGUN",
 				"def": "día"
@@ -753,10 +717,7 @@
 				"def": "caer(se)"
 			}, {
 				"term": "EROSI",
-				"def": "comprar"
-			}, {
-				"term": "ERRE",
-				"def": "quemar, asar"
+				"def": "comprar "
 			}, {
 				"term": "ERRAZ",
 				"def": "fácil"
@@ -779,9 +740,6 @@
 				"term": "ESNE",
 				"def": "leche"
 			}, {
-				"term": "ESTALI",
-				"def": "tapar"
-			}, {
 				"term": "ETORBIDE",
 				"def": "avenida"
 			}, {
@@ -794,21 +752,8 @@
 				"term": "EZKER",
 				"def": "izquierda"
 			}, {
-				"term": "EZTI",
-				"def": "miel"
-			}, {
 				"term": "EZTUL",
 				"def": "tos"
-			}
-		]
-	}, {
-		"letter": "F",
-		"entries": [{
-				"term": "FRESKAGARRI",
-				"def": "refresco"
-			}, {
-				"term": "FRIJITU",
-				"def": "freír"
 			}
 		]
 	}, {
@@ -841,9 +786,6 @@
 				"term": "GARBITU",
 				"def": "limpiar"
 			}, {
-				"term": "GATZ",
-				"def": "sal"
-			}, {
 				"term": "GAU",
 				"def": "noche"
 			}, {
@@ -858,9 +800,6 @@
 			}, {
 				"term": "GAZTE",
 				"def": "joven"
-			}, {
-				"term": "GEHITU",
-				"def": "añadir"
 			}, {
 				"term": "GELA",
 				"def": "habitación"
@@ -923,9 +862,6 @@
 				"term": "GORRI",
 				"def": "rojo"
 			}, {
-				"term": "GORRITU",
-				"def": "dorar"
-			}, {
 				"term": "GORROTO",
 				"def": "odio"
 			}, {
@@ -934,9 +870,6 @@
 			}, {
 				"term": "GOSARI",
 				"def": "desayuno"
-			}, {
-				"term": "GURIN",
-				"def": "mantequilla"
 			}, {
 				"term": "GUTXI",
 				"def": "poco"
@@ -951,14 +884,8 @@
 				"term": "HANKA",
 				"def": "pierna"
 			}, {
-				"term": "HAMAIKETAKO",
-				"def": "almuerzo"
-			}, {
 				"term": "HAMAR",
 				"def": "diez"
-			}, {
-				"term": "HARAGI",
-				"def": "carne"
 			}, {
 				"term": "HARTU",
 				"def": "coger"
@@ -1007,9 +934,6 @@
 			}, {
 				"term": "HIRU",
 				"def": "tres"
-			}, {
-				"term": "HIRUGIHAR",
-				"def": "beicon"
 			}, {
 				"term": "HITZ",
 				"def": "palabra"
@@ -1106,9 +1030,6 @@
 				"term": "INDAR",
 				"def": "fuerza"
 			}, {
-				"term": "INTXAUR",
-				"def": "nuez"
-			}, {
 				"term": "IPARRALDE",
 				"def": "norte"
 			}, {
@@ -1121,9 +1042,6 @@
 				"term": "IRABAZI",
 				"def": "ganar"
 			}, {
-				"term": "IRABIATU",
-				"def": "batir"
-			}, {
 				"term": "IRAIL",
 				"def": "septiembre"
 			}, {
@@ -1132,9 +1050,6 @@
 			}, {
 				"term": "IRAKATSI",
 				"def": "enseñar"
-			}, {
-				"term": "IRAKIN",
-				"def": "hervir"
 			}, {
 				"term": "IRAKURRI",
 				"def": "leer"
@@ -1191,9 +1106,6 @@
 				"term": "IZEKO",
 				"def": "tía",
 				"hint": "👪👩"
-			}, {
-				"term": "IZOZKI",
-				"def": "helado"
 			}, {
 				"term": "IZOTZ",
 				"def": "hielo"
@@ -1379,9 +1291,6 @@
 				"term": "LAZTANDU",
 				"def": "acariciar"
 			}, {
-				"term": "LEGATZ",
-				"def": "merluza"
-			}, {
 				"term": "LEGE",
 				"def": "ley"
 			}, {
@@ -1393,9 +1302,6 @@
 			}, {
 				"term": "LEHIA",
 				"def": "competencia"
-			}, {
-				"term": "LEKA",
-				"def": "judía verde"
 			}, {
 				"term": "LEKU",
 				"def": "sitio, lugar"
@@ -2098,9 +2004,6 @@
 				"term": "TELEFONO",
 				"def": "teléfono"
 			}, {
-				"term": "TIPULA",
-				"def": "cebolla"
-			}, {
 				"term": "TOKI",
 				"def": "sitio, lugar",
 				"hint": "🌏👈"
@@ -2156,9 +2059,6 @@
 				"term": "TXIKI",
 				"def": "pequeño"
 			}, {
-				"term": "TXIKITU",
-				"def": "trocear"
-			}, {
 				"term": "TXIMINIA",
 				"def": "chimenea"
 			}, {
@@ -2192,9 +2092,6 @@
 			}, {
 				"term": "UDALETXE",
 				"def": "casa consistorial"
-			}, {
-				"term": "UDARE",
-				"def": "pera"
 			}, {
 				"term": "UDAZKEN",
 				"def": "otoño"
@@ -2280,9 +2177,6 @@
 			}, {
 				"term": "XEHE",
 				"def": "menudo"
-			}, {
-				"term": "XERRATU",
-				"def": "filetear"
 			}, {
 				"term": "XURGATU",
 				"def": "chupar, succionar"
@@ -2484,9 +2378,6 @@
 			}, {
 				"term": "ZUHAITZ",
 				"def": "árbol"
-			}, {
-				"term": "ZUKU",
-				"def": "zumo"
 			}, {
 				"term": "ZULO",
 				"def": "agujero"
