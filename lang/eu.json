@@ -24,7 +24,8 @@
 				"def": "1 escuchar. 2 entender"
 			}, {
 				"term": "ADISKIDE",
-				"def": "amigo"
+                "def": "amigo",
+                "hint": "☺🍻☺"
 			}, {
 				"term": "ADOS",
 				"def": "de acuerdo"
@@ -36,7 +37,8 @@
 				"def": "cena"
 			}, {
 				"term": "AGERTU",
-				"def": "aparecer"
+                "def": "aparecer",
+                "hint": "🎩🐰"
 			}, {
 				"term": "AGUR",
 				"def": "1 adiós. 2 saludo (en general)"
@@ -212,7 +214,8 @@
 				"def": "muchas veces"
 			}, {
 				"term": "ASMATU",
-				"def": "acertar, inventar"
+                "def": "acertar, inventar",
+                "hint": "🎯"
 			}, {
 				"term": "ASMO",
 				"def": "intención"
@@ -317,7 +320,8 @@
 				"def": "debajo"
 			}, {
 				"term": "AZTERKETA",
-				"def": "examen"
+                "def": "examen",
+                "hint": "📝😥"
 			}, {
 				"term": "AZTERTU",
 				"def": "examinar"
@@ -432,7 +436,8 @@
 				"def": "al menos"
 			}, {
 				"term": "BELAR",
-				"def": "hierba"
+                "def": "hierba",
+                "hint": "🌱"
 			}, {
 				"term": "BELARRI",
 				"def": "oreja"
@@ -575,7 +580,8 @@
 				"def": "oficina "
 			}, {
 				"term": "BURDINA",
-				"def": "hierro"
+                "def": "hierro",
+                "hint": "Fe"
 			}, {
 				"term": "BURU",
 				"def": "cabeza"
@@ -617,7 +623,8 @@
 				"def": "de todo"
 			}, {
 				"term": "DERRIGORREZKO",
-				"def": "obligatorio"
+                "def": "obligatorio",
+                "hint": "👇👮"
 			}, {
 				"term": "DESEGIN",
 				"def": "deshacer"
@@ -635,7 +642,8 @@
 				"def": "dinero"
 			}, {
 				"term": "DOHAIN",
-				"def": "gratis"
+                "def": "gratis",
+                "hint": "💰🚫"
 			}, {
 				"term": "DUIN",
 				"def": "digno"
@@ -699,7 +707,8 @@
 				"def": "tiempo metereológico"
 			}, {
 				"term": "EGUTEGI",
-				"def": "calendario"
+                "def": "calendario",
+                "hint": "📆"
 			}, {
 				"term": "EGUZKI",
 				"def": "sol"
@@ -866,10 +875,12 @@
 				"def": "habitación"
 			}, {
 				"term": "GELDIRIK",
-				"def": "quieto, parado"
+                "def": "quieto, parado",
+                "hint": "🚦🚗"
 			}, {
 				"term": "GELDITU",
-				"def": "pararse"
+				"def": "pararse",
+                "hint": "🚦🚗"
 			}, {
 				"term": "GELTOKI",
 				"def": "parada, estación"
@@ -988,10 +999,12 @@
 				"def": "pueblo"
 			}, {
 				"term": "HEZETASUN",
-				"def": "humedad"
+                "def": "humedad",
+                "hint": "💧"
 			}, {
 				"term": "HEZUR",
-				"def": "hueso"
+                "def": "hueso",
+                "hint": "🍖"
 			}, {
 				"term": "HIL",
 				"def": "1 morir. 2 matar"
@@ -1269,7 +1282,8 @@
 				"def": "jersei"
 			}, {
 				"term": "JEZARRI",
-				"def": "sentarse"
+                "def": "sentarse",
+                "hint": "💺🚶"
 			}, {
 				"term": "JO",
 				"def": "1 golpear. 2 tocar"
@@ -1290,7 +1304,8 @@
 				"def": "coser"
 			}, {
 				"term": "JOSTAILU",
-				"def": "juguete"
+                "def": "juguete",
+                "hint": "🎈"
 			}, {
 				"term": "JOSTUN",
 				"def": "sastre, costurero"
@@ -1506,10 +1521,12 @@
 				"def": "minuto"
 			}, {
 				"term": "MINTZATU",
-				"def": "hablar"
+                "def": "hablar",
+                "hint": "☺☕☕☺"
 			}, {
 				"term": "MIRARI",
-				"def": "milagro"
+                "def": "milagro",
+                "hint": "😇🍞🐟"
 			}, {
 				"term": "MOLDATU",
 				"def": "arreglar, apañar"
@@ -1621,10 +1638,12 @@
 				"def": "chica"
 			}, {
 				"term": "NEURRI",
-				"def": "medida"
+				"def": "medida",
+                "hint": "📏"
 			}, {
 				"term": "NEURTU",
-				"def": "medir"
+                "def": "medir",
+                "hint": "📏"
 			}, {
 				"term": "NOIZ",
 				"def": "¿cuándo?"
@@ -1661,7 +1680,8 @@
 				"def": "¿hasta dónde?"
 			}, {
 				"term": "NORANTZ",
-				"def": "¿hacia dónde?"
+                "def": "¿hacia dónde?",
+                "hint": "⬅😥?➡"
 			}, {
 				"term": "NOR",
 				"def": "¿quién?"
@@ -1754,7 +1774,8 @@
 				"def": "bueno"
 			}, {
 				"term": "ONARTU",
-				"def": "aceptar, admitir"
+                "def": "aceptar, admitir",
+                "hint": "👐"
 			}, {
 				"term": "ONDO",
 				"def": "bien"
@@ -1890,7 +1911,8 @@
 				"def": "persona"
 			}, {
 				"term": "PETRAL",
-				"def": "rebelde, atravesado"
+				"def": "rebelde, atravesado",
+				"hint": "👿"
 			}, {
 				"term": "PILOTA",
 				"def": "pelota"
@@ -1957,7 +1979,8 @@
 				"def": "preparar"
 			}, {
 				"term": "PUSKA",
-				"def": "pedazo, trozo"
+                "def": "pedazo, trozo",
+                "hint": "🎂➡🍰"
 			}, {
 				"term": "PUSKATU",
 				"def": "romper"
@@ -1979,7 +2002,8 @@
 				"def": "sidra "
 			}, {
 				"term": "SAGU",
-				"def": "ratón"
+                "def": "ratón",
+                "hint": "🐭"
 			}, {
 				"term": "SAIATU",
 				"def": "intentar, esforzarse"
@@ -1988,7 +2012,8 @@
 				"def": "1 prueba, ensayo. 2 actuación, función"
 			}, {
 				"term": "SAKATU",
-				"def": "pulsar, presionar"
+                "def": "pulsar, presionar",
+                "hint": "👉🔴"
 			}, {
 				"term": "SAKON",
 				"def": "profundo"
@@ -2013,13 +2038,15 @@
 				"def": "bastante"
 			}, {
 				"term": "SAMUR",
-				"def": "tierno"
+                "def": "tierno",
+                "hint": "🍩"
 			}, {
 				"term": "SARI",
 				"def": "premio"
 			}, {
 				"term": "SARRERA",
-				"def": "1 entrada. 2 introducción"
+                "def": "1 entrada. 2 introducción",
+                "hint": "➡🏠"
 			}, {
 				"term": "SARTU",
 				"def": "1 entrar. 2 meter"
@@ -2034,7 +2061,8 @@
 				"def": "seis"
 			}, {
 				"term": "SEKULA EZ",
-				"def": "nunca"
+                "def": "nunca",
+                "hint": "🕐🚫🕑🚫🕒🚫"
 			}, {
 				"term": "SEME",
 				"def": "hijo"
@@ -2052,10 +2080,12 @@
 				"def": "curar"
 			}, {
 				"term": "SENIDE",
-				"def": "familar, pariente"
+                "def": "familiar, pariente",
+                "hint": "👪"
 			}, {
 				"term": "SINETSI",
-				"def": "creer"
+                "def": "creer",
+                "hint": "🙏"
 			}, {
 				"term": "SOINEKO",
 				"def": "vestido",
@@ -2172,10 +2202,12 @@
 				"def": "pájaro"
 			}, {
 				"term": "TXUKUN",
-				"def": "arreglado, aseado"
+                "def": "arreglado, aseado",
+                "hint": "👔"
 			}, {
 				"term": "TXUNDITU",
-				"def": "asombrar(se)"
+                "def": "asombrar(se)",
+                "hint": "😮"
 			}
 		]
 	}, {
@@ -2218,7 +2250,8 @@
 				"def": "universidad"
 			}, {
 				"term": "UNE",
-				"def": "momento"
+                "def": "momento",
+                "hint": "👉🕑"
 			}, {
 				"term": "UR",
 				"def": "agua"
@@ -2333,7 +2366,8 @@
 				"hint": "🎺🎳🏀"
 			}, {
 				"term": "ZAMA",
-				"def": "carga"
+                "def": "carga",
+                "hint": "🚚👈"
 			}, {
 				"term": "ZAPALDU",
 				"def": "aplastar, pisar"
@@ -2392,7 +2426,8 @@
 				"def": "servicio"
 			}, {
 				"term": "ZERGA",
-				"def": "impuesto"
+                "def": "impuesto",
+                "hint": "💰➡🇪🇸"
 			}, {
 				"term": "ZERGATIK",
 				"def": "¿por qué?"
