@@ -94,7 +94,7 @@
 				"def": "alto"
 			}, {
 				"term": "ALTXATU",
-				"def": "levantar(se) "
+				"def": "levantar(se)"
 			}, {
 				"term": "ALU",
 				"def": "vagina"
@@ -103,7 +103,7 @@
 				"def": "madre"
 			}, {
 				"term": "AMAITU",
-				"def": "terminar "
+				"def": "terminar"
 			}, {
 				"term": "AMONA",
 				"def": "abuela"
@@ -199,7 +199,8 @@
 				"def": "maiz"
 			}, {
 				"term": "ASKARI",
-				"def": "merienda"
+                "def": "merienda",
+                "hint": "🍫"
 			}, {
 				"term": "ASKATASUN",
 				"def": "libertad"
@@ -218,7 +219,8 @@
                 "hint": "🎯"
 			}, {
 				"term": "ASMO",
-				"def": "intención"
+                "def": "intención",
+                "hint": "🚲🚶💭🚴"
 			}, {
 				"term": "ASPALDIAN",
 				"def": "hace mucho tiempo"
@@ -249,7 +251,8 @@
 				"hint": "🐴"
 			}, {
 				"term": "ATARI",
-				"def": "portal"
+                "def": "portal",
+                "hint": "🚪7"
 			}, {
 				"term": "ATE",
 				"def": "puerta"
@@ -358,7 +361,8 @@
 				"def": "bacalao"
 			}, {
 				"term": "BAKOITZ",
-				"def": "cada uno"
+                "def": "cada uno",
+                "hint": "👉👲👉👳👉👵"
 			}, {
 				"term": "BALDAR",
 				"def": "torpe"
@@ -397,7 +401,7 @@
 				"def": "1 bosque. 2 vaso"
 			}, {
 				"term": "BAT",
-				"def": "uno "
+				"def": "uno"
 			}, {
 				"term": "BATZUETAN",
 				"def": "algunas veces"
@@ -424,13 +428,15 @@
 				"def": "1 necesitar. 2 deber hacer algo"
 			}, {
 				"term": "BEHATZ",
-				"def": "dedo"
+                "def": "dedo",
+                "hint": "👆"
 			}, {
 				"term": "BEHE",
 				"def": "parte inferior, abajo"
 			}, {
 				"term": "BEHI",
-				"def": "vaca"
+                "def": "vaca",
+                "hint": "🐮"
 			}, {
 				"term": "BEHINTZAT",
 				"def": "al menos"
@@ -532,7 +538,8 @@
 				"def": "excelente"
 			}, {
 				"term": "BIKOITZ",
-				"def": "doble"
+                "def": "doble",
+                "hint": "2➡4"
 			}, {
 				"term": "BILDU",
 				"def": "1 recoger. 2 reunir"
@@ -550,7 +557,7 @@
 				"def": "vivir"
 			}, {
 				"term": "BIZITZA",
-				"def": "vida "
+				"def": "vida"
 			}, {
 				"term": "BIZKOR",
 				"def": "rápido, fuerte"
@@ -565,7 +572,7 @@
 				"def": "tirar"
 			}, {
 				"term": "BOTIKA",
-				"def": "farmacia "
+				"def": "farmacia"
 			}, {
 				"term": "BOTILA",
 				"def": "botella"
@@ -577,7 +584,7 @@
 				"def": "acabar"
 			}, {
 				"term": "BULEGO",
-				"def": "oficina "
+				"def": "oficina"
 			}, {
 				"term": "BURDINA",
                 "def": "hierro",
@@ -608,7 +615,7 @@
 			}, {
 				"term": "DEI",
 				"def": "llamada",
-				"hint": "🙋"
+				"hint": "🙋💬"
 			}, {
 				"term": "DEITU",
 				"def": "llamar"
@@ -643,7 +650,7 @@
 			}, {
 				"term": "DOHAIN",
                 "def": "gratis",
-                "hint": "💰🚫"
+                "hint": "💰✋"
 			}, {
 				"term": "DUIN",
 				"def": "digno"
@@ -726,10 +733,10 @@
 				"def": "nieve"
 			}, {
 				"term": "ELIZ",
-				"def": "iglesia "
+				"def": "iglesia"
 			}, {
 				"term": "EMAKUME",
-				"def": "mujer "
+				"def": "mujer"
 			}, {
 				"term": "EMAN",
 				"def": "dar"
@@ -798,13 +805,14 @@
 				"def": "casa"
 			}, {
 				"term": "EZ",
-				"def": "no (negación) "
+				"def": "no (negación)"
 			}, {
 				"term": "EZKER",
 				"def": "izquierda"
 			}, {
 				"term": "EZTI",
-				"def": "miel"
+                "def": "miel",
+                "hint": "🍯"
 			}, {
 				"term": "EZTUL",
 				"def": "tos"
@@ -869,7 +877,8 @@
 				"def": "joven"
 			}, {
 				"term": "GEHITU",
-				"def": "añadir"
+                "def": "añadir",
+                "hint": "📕➡📚"
 			}, {
 				"term": "GELA",
 				"def": "habitación"
@@ -892,7 +901,8 @@
 				"def": "luego"
 			}, {
 				"term": "GERTATU",
-				"def": "suceder"
+                "def": "suceder",
+                "hint": "📰"
 			}, {
 				"term": "GEZUR",
 				"def": "mentira",
@@ -990,7 +1000,8 @@
 				"def": "dirección"
 			}, {
 				"term": "HELBURU",
-				"def": "objetivo"
+                "def": "objetivo",
+                "hint": "🎯"
 			}, {
 				"term": "HELDU",
 				"def": "1 llegar. 2 agarrar"
@@ -1046,7 +1057,7 @@
 				"def": "veinte"
 			}, {
 				"term": "HONDARTZA",
-				"def": "playa "
+				"def": "playa"
 			}, {
 				"term": "HORI",
 				"def": "amarillo"
@@ -1147,16 +1158,18 @@
 				"def": "enseñar"
 			}, {
 				"term": "IRAKIN",
-				"def": "hervir"
+                "def": "hervir",
+                "hint": "🍵🔥"
 			}, {
 				"term": "IRAKURRI",
 				"def": "leer"
 			}, {
 				"term": "IREKI",
-				"def": "abrir "
+				"def": "abrir"
 			}, {
 				"term": "IRENTSI",
-				"def": "tragar"
+                "def": "tragar",
+                "hint": "💊👄"
 			}, {
 				"term": "IRLA",
 				"def": "isla",
@@ -1166,10 +1179,11 @@
 				"def": "radio"
 			}, {
 				"term": "IRTEERA",
-				"def": "salida "
+				"def": "salida"
 			}, {
 				"term": "IRUDI",
-				"def": "imagen, dibujo"
+                "def": "imagen, dibujo",
+                "hint": "✏🌅"
 			}, {
 				"term": "IRUDITU",
 				"def": "1 parecer. 2 imaginar"
@@ -1243,7 +1257,8 @@
 				"def": "chaqueta"
 			}, {
 				"term": "JAKI",
-				"def": "alimento"
+                "def": "alimento",
+                "hint": "🍛🍗🍉"
 			}, {
 				"term": "JAN",
 				"def": "comer"
@@ -1315,7 +1330,8 @@
 		"letter": "K",
 		"entries": [{
 				"term": "KAI",
-				"def": "puerto "
+                "def": "puerto",
+                "hint": "🚢⛽"
 			}, {
 				"term": "KAIOLA",
 				"def": "jaula"
@@ -1389,7 +1405,7 @@
 				"def": "cuatro"
 			}, {
 				"term": "LAZTAN",
-				"def": "1 caricia. 2 amado, querido "
+				"def": "1 caricia. 2 amado, querido"
 			}, {
 				"term": "LAZTANDU",
 				"def": "acariciar"
@@ -1419,10 +1435,10 @@
 				"def": "libro"
 			}, {
 				"term": "LIBURUDENDA",
-				"def": "librería "
+				"def": "librería"
 			}, {
 				"term": "LIBURUTEGI",
-				"def": "biblioteca "
+				"def": "biblioteca"
 			}, {
 				"term": "LO EGIN",
 				"def": "dormir"
@@ -1509,7 +1525,7 @@
 				"def": "mil"
 			}, {
 				"term": "MIN",
-				"def": "dolor "
+				"def": "dolor"
 			}, {
 				"term": "MIN EGIN",
 				"def": "hacer daño"
@@ -1522,7 +1538,7 @@
 			}, {
 				"term": "MINTZATU",
                 "def": "hablar",
-                "hint": "☺☕☕☺"
+                "hint": "☺💬☺💬"
 			}, {
 				"term": "MIRARI",
                 "def": "milagro",
@@ -1532,7 +1548,8 @@
 				"def": "arreglar, apañar"
 			}, {
 				"term": "MOTA",
-				"def": "clase, tipo"
+                "def": "clase, tipo",
+                "hint": "🍎🍏"
 			}, {
 				"term": "MOTEL",
 				"def": "lento, flojo"
@@ -1605,7 +1622,8 @@
 				"def": "suficiente, bastante"
 			}, {
 				"term": "NARRAS",
-				"def": "desaliñado, sucio"
+                "def": "desaliñado, sucio",
+                "hint": "🐷💨😩"
 			}, {
 				"term": "NAZKA",
 				"def": "asco, repugnancia"
@@ -1681,7 +1699,7 @@
 			}, {
 				"term": "NORANTZ",
                 "def": "¿hacia dónde?",
-                "hint": "⬅😥?➡"
+                "hint": "⬅😥❓➡"
 			}, {
 				"term": "NOR",
 				"def": "¿quién?"
@@ -1775,7 +1793,7 @@
 			}, {
 				"term": "ONARTU",
                 "def": "aceptar, admitir",
-                "hint": "👐"
+                "hint": "👩🎫👮👍"
 			}, {
 				"term": "ONDO",
 				"def": "bien"
@@ -1794,7 +1812,7 @@
 				"hint": "🍶"
 			}, {
 				"term": "OPARI",
-				"def": "regalo "
+				"def": "regalo"
 			}, {
 				"term": "OPOR",
 				"def": "vacación"
@@ -1830,20 +1848,22 @@
 				"def": "acordarse, recordar"
 			}, {
 				"term": "ORRATZ",
-				"def": "aguja "
+                "def": "aguja",
+                "hint": "💉"
 			}, {
 				"term": "ORRAZI",
 				"def": "peine",
 				"hint": "💇"
 			}, {
 				"term": "ORRAZTU",
-				"def": "peinar "
+				"def": "peinar",
+				"hint": "💇"
 			}, {
 				"term": "ORRI",
 				"def": "hoja"
 			}, {
 				"term": "ORRIALDE",
-				"def": "página "
+				"def": "página"
 			}, {
 				"term": "OSABA",
 				"def": "tío"
@@ -1855,13 +1875,14 @@
 				"def": "1 completar. 2 sanar, curar(se)"
 			}, {
 				"term": "OSO",
-				"def": "1 muy <i>oso polita</i>, \" muy bonito,-a \". 2 entero"
+				"def": "1 muy. 2 entero"
 			}, {
 				"term": "OSPATU",
-				"def": "celebrar"
+                "def": "celebrar",
+                "hint": "🎉"
 			}, {
 				"term": "OSPETSU",
-				"def": "famoso "
+				"def": "famoso"
 			}, {
 				"term": "OSPITALE",
 				"def": "hospital"
@@ -1902,7 +1923,8 @@
 				"def": "pensar"
 			}, {
 				"term": "PERPAUS",
-				"def": "frase, oración"
+                "def": "frase, oración",
+                "hint": "💬"
 			}, {
 				"term": "PERRETXIKO",
 				"def": "seta, hongo"
@@ -1939,7 +1961,8 @@
 				"def": "encender, encendido"
 			}, {
 				"term": "PLANTA",
-				"def": "actitud, facha"
+                "def": "actitud, facha",
+                "hint": "😝"
 			}, {
 				"term": "PLATER",
 				"def": "plato"
@@ -1999,14 +2022,15 @@
 				"def": "manzana"
 			}, {
 				"term": "SAGARDO",
-				"def": "sidra "
+				"def": "sidra"
 			}, {
 				"term": "SAGU",
                 "def": "ratón",
                 "hint": "🐭"
 			}, {
 				"term": "SAIATU",
-				"def": "intentar, esforzarse"
+                "def": "intentar, esforzarse",
+                "hint": "💪😅"
 			}, {
 				"term": "SAIO",
 				"def": "1 prueba, ensayo. 2 actuación, función"
@@ -2016,7 +2040,8 @@
                 "hint": "👉🔴"
 			}, {
 				"term": "SAKON",
-				"def": "profundo"
+                "def": "profundo",
+                "hint": "🐟🐙🐋"
 			}, {
 				"term": "SALDA",
 				"def": "caldo",
@@ -2092,7 +2117,7 @@
 				"hint": "👗"
 			}, {
 				"term": "SOKA",
-				"def": "cuerda "
+				"def": "cuerda"
 			}, {
 				"term": "SORTU",
 				"def": "1 nacer. 2 crear"
@@ -2136,7 +2161,7 @@
 				"hint": "🌏👈"
 			}, {
 				"term": "TOPO EGIN",
-				"def": "encontrarse con alguien "
+				"def": "encontrarse con alguien"
 			}, {
 				"term": "TREBE",
 				"def": "hábil"
@@ -2154,7 +2179,7 @@
 				"def": "triste"
 			}, {
 				"term": "TXAKUR",
-				"def": "perro "
+				"def": "perro"
 			}, {
 				"term": "TXALO",
 				"def": "aplauso"
@@ -2163,7 +2188,7 @@
 				"def": "turno"
 			}, {
 				"term": "TXANPON",
-				"def": "moneda "
+				"def": "moneda"
 			}, {
 				"term": "TXAPEL",
 				"def": "boina"
@@ -2175,7 +2200,7 @@
 				"def": "malo"
 			}, {
 				"term": "TXERRI",
-				"def": "cerdo "
+				"def": "cerdo"
 			}, {
 				"term": "TXERTATU",
 				"def": "injertar"
@@ -2235,10 +2260,12 @@
 				"def": "abundante"
 			}, {
 				"term": "UKATU",
-				"def": "negar"
+                "def": "negar",
+                "hint": "😐✋"
 			}, {
 				"term": "UKITU",
-				"def": "tocar"
+                "def": "tocar",
+                "hint": "⠎⠡⠏⠋⠷"
 			}, {
 				"term": "ULERTU",
 				"def": "comprender, entender"
@@ -2293,7 +2320,8 @@
 				"def": "1 opinar. 2 opinión"
 			}, {
 				"term": "UTZI",
-				"def": "dejar"
+                "def": "dejar",
+                "hint": "😢💔😒➡"
 			}, {
 				"term": "UZTAIL",
 				"def": "julio"
@@ -2309,7 +2337,8 @@
 				"def": "despilfarrar"
 			}, {
 				"term": "XEDE",
-				"def": "objetivo, meta"
+                "def": "objetivo, meta",
+                "hint": "🏁"
 			}, {
 				"term": "XEHE",
 				"def": "menudo"
@@ -2318,7 +2347,8 @@
 				"def": "filetear"
 			}, {
 				"term": "XURGATU",
-				"def": "chupar, succionar"
+                "def": "chupar, succionar",
+                "hint": "🍼"
 			}
 		]
 	}, {
@@ -2370,7 +2400,8 @@
                 "hint": "🚚👈"
 			}, {
 				"term": "ZAPALDU",
-				"def": "aplastar, pisar"
+                "def": "aplastar, pisar",
+                "hint": "👞🐜"
 			}, {
 				"term": "ZAPATA",
 				"def": "zapato"
@@ -2379,7 +2410,8 @@
 				"def": "pañuelo"
 			}, {
 				"term": "ZATI",
-				"def": "trozo"
+                "def": "trozo",
+                "hint": "🍰"
 			}, {
 				"term": "ZAUNKA",
 				"def": "ladrido",
@@ -2411,7 +2443,7 @@
 			}, {
 				"term": "ZENBAT",
 				"def": "¿cuánto(s)?",
-				"hint": "💵?"
+				"hint": "💵❓"
 			}, {
 				"term": "ZER",
 				"def": "¿qué?"
@@ -2469,7 +2501,7 @@
 				"def": "sucio"
 			}, {
 				"term": "ZIKINDU",
-				"def": "ensuciar "
+				"def": "ensuciar"
 			}, {
 				"term": "ZINEMA",
 				"def": "cine"
@@ -2506,10 +2538,12 @@
 				"def": "loco"
 			}, {
 				"term": "ZORROTZ",
-				"def": "1 afilado, agudo. 2 perspicaz. 3 exigente"
+                "def": "1 afilado, agudo. 2 perspicaz. 3 exigente",
+                "hint": "🔪"
 			}, {
 				"term": "ZORROZTU",
-				"def": "afilar"
+				"def": "afilar",
+                "hint": "🔪🔃"
 			}, {
 				"term": "ZORTZI",
 				"def": "ocho"
