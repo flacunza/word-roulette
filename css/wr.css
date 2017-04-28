@@ -33,7 +33,18 @@ html,body,.wr-roulette {
 .wr-roulette.wr-guessing .wr-def, .wr-roulette.wr-guessing .wr-hint {
 	display: none;
 }
-.wr-hint {
+
+.wr-roulette.wr-edit-mode.wr-guessing .wr-def, .wr-roulette.wr-edit-mode.wr-guessing .wr-hint {
+	display: block;
+}
+
+.wr-roulette.wr-edit-mode button {
+	position: absolute;
+	bottom: 2em;
+	left: 2em;
+}
+
+.wr-roulette .wr-hint {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -46,7 +57,7 @@ html,body,.wr-roulette {
 	text-align:center;
 }
 
-.wr-hint-btn {
+.wr-roulette .wr-hint-btn {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -94,5 +105,9 @@ html,body,.wr-roulette {
 }
 
 .wr-roulette input {
+	width: 100%;
+}
+
+.wr-builder .wr-add-btn,.wr-builder .wr-export-btn {
 	width: 100%;
 }
