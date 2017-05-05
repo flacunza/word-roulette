@@ -1,4 +1,4 @@
 ## Examples
 
-[Euskara -> Castellano](examples/index.html)
+[Euskara → Castellano](examples/index.html)
 
