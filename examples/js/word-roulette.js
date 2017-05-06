@@ -1,4 +1,4 @@
-var WordRoulette = function (options) {
+﻿var WordRoulette = function (options) {
 	this._options = options || {};
 	this.target = document.getElementById(this._options.target);
 	this._dataSource = this._options.dataSource;
@@ -10,10 +10,18 @@ WordRoulette.classNames = {
 	TERM: "wr-term",
 	DEFINITION: "wr-def",
 	HINT: "wr-hint",
+	ASK_MODE: "wr-ask-mode",
 	HAS_HINT: "wr-has-hint",
 	HINT_BUTTON: "wr-hint-btn",
 	HINT_SHOWN: "wr-hint-shown",
-	GUESSING: "wr-guessing"
+	GUESSING: "wr-guessing",
+	ASKING: "wr-asking",
+	REVERSE_MODE: "wr-reverse"
+};
+
+WordRoulette.mode = {
+	FORWARD: 0,
+	REVERSE: 1
 };
 
 var WRBuilder = function (options) {
@@ -58,7 +66,45 @@ WRBuilder.classNames = {
 			self.target.addEventListener('click', function () {
 				self.nextStep();
 			});
+			
+			self._askModeSection = document.createElement('section');
+			self._askModeSection.classList.add(WordRoulette.classNames.ASK_MODE);
+			var fwd = document.createElement('article');
+			fwd.innerHTML = "&rarr;"
+			fwd.addEventListener('click', function(e) {
+				self.startMode(WordRoulette.mode.FORWARD);
+				e.stopPropagation();
+			});
+			self._askModeSection.appendChild(fwd);
+			var rev = document.createElement('article');
+			rev.innerHTML = "&larr;"
+			rev.addEventListener('click', function(e) {
+				self.startMode(WordRoulette.mode.REVERSE);
+				e.stopPropagation();
+			});
+			self._askModeSection.appendChild(rev);
+			self._askModeSection.classList.add(WordRoulette.classNames.ASK_MODE);
+			self.target.appendChild(self._askModeSection);
 		}
+	};
+	
+	WordRoulette.prototype.askMode = function () {
+		this.getAskModeSection().classList.add(WordRoulette.classNames.ASKING);
+	}
+	
+	WordRoulette.prototype.startMode = function (mode) {
+		var self = this;
+		self._mode = mode;
+		self.getAskModeSection().classList.remove(WordRoulette.classNames.ASKING);
+		self.getEntry();
+	}
+	
+	WordRoulette.prototype.getMode = function () {
+		return this._mode;
+	}
+
+	WordRoulette.prototype.getAskModeSection = function () {
+		return this._askModeSection;
 	};
 	
 	WordRoulette.prototype.getTermSection = WRBuilder.prototype.getTermSection = function () {
@@ -128,9 +174,21 @@ WRBuilder.classNames = {
 			self.reviewedEntries.push(self.currentEntry);
 		}
 		self.target.classList.remove(WordRoulette.classNames.HINT_SHOWN);
-		self.updateTermSection(self.currentEntry.term);
-		self.updateDefinitionSection(self.currentEntry.def);
-		self.updateHintSection(self.currentEntry.hint || "");
+		var def;
+		var hint;
+		if (self.getMode() === WordRoulette.mode.REVERSE) {
+			term = self.currentEntry.def;
+			def = self.currentEntry.term;
+			hint = "";
+		}
+		else {
+			term = self.currentEntry.term;
+			def = self.currentEntry.def;
+			hint = self.currentEntry.hint || "";
+		}
+		self.updateTermSection(term);
+		self.updateDefinitionSection(def);
+		self.updateHintSection(hint);
 		self.setGuessing(true);
 	};
 	
@@ -184,7 +242,7 @@ WRBuilder.classNames = {
 						}
 					}
 					self._ready = true;
-					self.getEntry();
+					self.askMode();
 				}
 				else {
 					console.log("Error loading page");
