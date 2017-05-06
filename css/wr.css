@@ -18,7 +18,7 @@ html,body,.wr-roulette {
 .wr-roulette {
 	position: relative;
 }
-.wr-term,.wr-def,.wr-hint {
+.wr-term,.wr-def,.wr-hint,.wr-ask-mode article {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -106,6 +106,20 @@ html,body,.wr-roulette {
 
 .wr-roulette input {
 	width: 100%;
+}
+
+.wr-roulette .wr-ask-mode {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #fff;
+	display: none;
+}
+
+.wr-roulette .wr-ask-mode.wr-asking {
+	display: block;
 }
 
 .wr-builder .wr-add-btn,.wr-builder .wr-export-btn {
