@@ -30,6 +30,11 @@ html,body,.wr-roulette {
 	cursor: pointer;
 	text-shadow: 0px 0px 1em white;
 }
+
+.wr-ask-mode article {
+	font-size: 50vmin;
+}
+
 .wr-roulette.wr-guessing .wr-def, .wr-roulette.wr-guessing .wr-hint {
 	display: none;
 }
